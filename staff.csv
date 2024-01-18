@@ -1,0 +1,31 @@
+id,first_name,last_name,role,specialty,email,phone_number
+809,Katherine,Martinez,Doctor,Internal Medicine,jeremy97@example.org,364-791-5932x602
+1496,Kayla,Ortega,Nurse,Sports Medicine,fitzgeralddavid@example.com,990.672.7367x59942
+2230,Joanna,Stevens,Nurse,Psychiatry,ericksonrobert@example.net,674-865-8309
+326,Ryan,Gordon,Nurse,Psychiatry,juan50@example.com,001-241-407-3817x478
+6614,Christian,Ball,Nurse,Family Medicine,chenjoshua@example.org,759-319-4570
+6277,Paige,Ritter,Nurse,Psychiatry,walterrobin@example.com,+1-459-667-0364x36891
+4367,Christopher,Long,Nurse,Sports Medicine,felicia03@example.net,732-261-4494
+1062,Sara,Miller,Doctor,Psychiatry,cartersara@example.com,731.914.3028x815
+6489,Beth,Wilson,Doctor,Internal Medicine,teresapacheco@example.org,001-924-443-2312x7968
+7185,Kevin,Collins,Nurse,Internal Medicine,michaelbrown@example.net,613.239.7906
+2004,Jason,Fox,Doctor,Internal Medicine,dianahicks@example.net,001-930-983-3101x202
+1350,Christian,Dunn,Nurse,Family Medicine,melinda63@example.net,643-969-8353x4645
+6512,Courtney,Harvey,Nurse,Family Medicine,ashleypage@example.org,(702)769-7065
+9461,Bryan,Palmer,Doctor,Family Medicine,lisa80@example.org,001-937-664-4793
+2095,Michael,Sandoval,Nurse,Psychiatry,egarner@example.net,7142731825
+3061,Emily,Cobb,Admin,NaN,gregory41@example.net,911.463.2581x3158
+9515,Jessica,Davis,Technician,NaN,randycooper@example.org,6575729388
+4126,Richard,Kelley,Technician,NaN,smeyers@example.com,994.711.0093x1118
+1022,Benjamin,Knapp,Technician,NaN,martin80@example.net,001-276-323-5151x1968
+9083,Vincent,Davidson,Admin,NaN,kaylahammond@example.org,(515)792-6507
+446,David,Anderson,Admin,NaN,joe69@example.com,+1-690-253-9359x178
+9042,Gilbert,Diaz,Technician,NaN,kevin83@example.org,866-463-6956x5407
+2119,Lisa,Mason,Technician,NaN,stephanie42@example.org,001-672-556-4586x0844
+8525,Mandy,Brown,Technician,NaN,bassheather@example.com,+1-770-749-9371
+5355,Lindsey,Jenkins,Technician,NaN,qjohns@example.com,359-273-1499
+8652,Gregory,Martinez,Technician,NaN,xmorgan@example.com,652.748.4910
+6414,Colin,Jones,Lab Personnel,NaN,beckysimmons@example.net,001-335-268-7460x3475
+3589,Henry,Fox,Lab Personnel,NaN,franklinalice@example.org,001-500-646-7127x590
+9861,Laurie,Smith,Admin,NaN,dawn10@example.net,+1-807-912-3714x0815
+9391,Alex,Davis,Admin,NaN,awinters@example.net,+1-985-814-7590x78416

@@ -1,0 +1,501 @@
+DATE,PATIENT,ENCOUNTER,CODE,DESCRIPTION,VALUE,UNITS
+2008-03-11,71949668-1c2e-43ae-ab0a-64654608defb,5114a5b4-64b8-47b2-82a6-0ce24aae0943,8302-2,Body Height,166.03,cm
+2008-03-11,71949668-1c2e-43ae-ab0a-64654608defb,5114a5b4-64b8-47b2-82a6-0ce24aae0943,29463-7,Body Weight,54.42,kg
+2008-03-11,71949668-1c2e-43ae-ab0a-64654608defb,5114a5b4-64b8-47b2-82a6-0ce24aae0943,39156-5,Body Mass Index,19.74,kg/m2
+2008-03-11,71949668-1c2e-43ae-ab0a-64654608defb,5114a5b4-64b8-47b2-82a6-0ce24aae0943,8480-6,Systolic Blood Pressure,139.0,mmHg
+2008-03-11,71949668-1c2e-43ae-ab0a-64654608defb,5114a5b4-64b8-47b2-82a6-0ce24aae0943,8462-4,Diastolic Blood Pressure,89.0,mmHg
+2009-04-07,71949668-1c2e-43ae-ab0a-64654608defb,bdb926b8-5b6d-4366-bbe9-76fe3f3fbc4f,8302-2,Body Height,166.04,cm
+2009-04-07,71949668-1c2e-43ae-ab0a-64654608defb,bdb926b8-5b6d-4366-bbe9-76fe3f3fbc4f,29463-7,Body Weight,55.94,kg
+2009-04-07,71949668-1c2e-43ae-ab0a-64654608defb,bdb926b8-5b6d-4366-bbe9-76fe3f3fbc4f,39156-5,Body Mass Index,20.29,kg/m2
+2009-04-07,71949668-1c2e-43ae-ab0a-64654608defb,bdb926b8-5b6d-4366-bbe9-76fe3f3fbc4f,8480-6,Systolic Blood Pressure,105.0,mmHg
+2009-04-07,71949668-1c2e-43ae-ab0a-64654608defb,bdb926b8-5b6d-4366-bbe9-76fe3f3fbc4f,8462-4,Diastolic Blood Pressure,82.0,mmHg
+2012-07-02,71949668-1c2e-43ae-ab0a-64654608defb,36796523-2672-4680-84c5-2d9a2b080ddb,8302-2,Body Height,166.04,cm
+2012-07-02,71949668-1c2e-43ae-ab0a-64654608defb,36796523-2672-4680-84c5-2d9a2b080ddb,29463-7,Body Weight,61.97,kg
+2012-07-02,71949668-1c2e-43ae-ab0a-64654608defb,36796523-2672-4680-84c5-2d9a2b080ddb,39156-5,Body Mass Index,22.48,kg/m2
+2012-07-02,71949668-1c2e-43ae-ab0a-64654608defb,36796523-2672-4680-84c5-2d9a2b080ddb,8480-6,Systolic Blood Pressure,127.0,mmHg
+2012-07-02,71949668-1c2e-43ae-ab0a-64654608defb,36796523-2672-4680-84c5-2d9a2b080ddb,8462-4,Diastolic Blood Pressure,89.0,mmHg
+2014-02-01,71949668-1c2e-43ae-ab0a-64654608defb,b2e12445-b771-4738-944b-95cf6bbe76eb,8331-1,Oral temperature,38.0,Cel
+2015-05-03,71949668-1c2e-43ae-ab0a-64654608defb,323e1478-fdbf-4904-80a6-2b7e4526fc22,8302-2,Body Height,166.04,cm
+2015-05-03,71949668-1c2e-43ae-ab0a-64654608defb,323e1478-fdbf-4904-80a6-2b7e4526fc22,29463-7,Body Weight,64.83,kg
+2015-05-03,71949668-1c2e-43ae-ab0a-64654608defb,323e1478-fdbf-4904-80a6-2b7e4526fc22,39156-5,Body Mass Index,23.51,kg/m2
+2015-05-03,71949668-1c2e-43ae-ab0a-64654608defb,323e1478-fdbf-4904-80a6-2b7e4526fc22,8480-6,Systolic Blood Pressure,111.0,mmHg
+2015-05-03,71949668-1c2e-43ae-ab0a-64654608defb,323e1478-fdbf-4904-80a6-2b7e4526fc22,8462-4,Diastolic Blood Pressure,70.0,mmHg
+2017-10-31,71949668-1c2e-43ae-ab0a-64654608defb,,273724008,Quality adjusted life years,29,years
+2017-10-31,71949668-1c2e-43ae-ab0a-64654608defb,,273421001,Disability rating scale,0,years
+1987-11-06,c2caaace-9119-4b2d-a2c3-4040f5a9cf32,c35264e2-404f-4890-adc7-b5ce85e3901f,254637007,Non-small cell lung cancer (disorder),,
+2017-10-31,c2caaace-9119-4b2d-a2c3-4040f5a9cf32,,273724008,Quality adjusted life years,50.98982701384954,years
+2017-10-31,c2caaace-9119-4b2d-a2c3-4040f5a9cf32,,273421001,Disability rating scale,36.723632986150456,years
+2008-06-02,96b24072-e1fe-49cd-a22a-6dfb92c3994c,4e7beaee-50c2-4609-8a2b-b32fb3dc5a3b,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2.3,%
+2008-06-02,96b24072-e1fe-49cd-a22a-6dfb92c3994c,4e7beaee-50c2-4609-8a2b-b32fb3dc5a3b,8302-2,Body Height,164.43,cm
+2008-06-02,96b24072-e1fe-49cd-a22a-6dfb92c3994c,4e7beaee-50c2-4609-8a2b-b32fb3dc5a3b,29463-7,Body Weight,106.16,kg
+2008-06-02,96b24072-e1fe-49cd-a22a-6dfb92c3994c,4e7beaee-50c2-4609-8a2b-b32fb3dc5a3b,39156-5,Body Mass Index,39.27,kg/m2
+2008-06-02,96b24072-e1fe-49cd-a22a-6dfb92c3994c,4e7beaee-50c2-4609-8a2b-b32fb3dc5a3b,8480-6,Systolic Blood Pressure,123.0,mmHg
+2008-06-02,96b24072-e1fe-49cd-a22a-6dfb92c3994c,4e7beaee-50c2-4609-8a2b-b32fb3dc5a3b,8462-4,Diastolic Blood Pressure,89.0,mmHg
+2008-06-02,96b24072-e1fe-49cd-a22a-6dfb92c3994c,4e7beaee-50c2-4609-8a2b-b32fb3dc5a3b,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2.3,%
+2008-06-02,96b24072-e1fe-49cd-a22a-6dfb92c3994c,4e7beaee-50c2-4609-8a2b-b32fb3dc5a3b,2339-0,Glucose,70.0,mg/dL
+2008-06-02,96b24072-e1fe-49cd-a22a-6dfb92c3994c,4e7beaee-50c2-4609-8a2b-b32fb3dc5a3b,6299-2,Urea Nitrogen,14.0,mg/dL
+2008-06-02,96b24072-e1fe-49cd-a22a-6dfb92c3994c,4e7beaee-50c2-4609-8a2b-b32fb3dc5a3b,38483-4,Creatinine,1.0,mg/dL
+2008-06-02,96b24072-e1fe-49cd-a22a-6dfb92c3994c,4e7beaee-50c2-4609-8a2b-b32fb3dc5a3b,49765-1,Calcium,9.23,mg/dL
+2008-06-02,96b24072-e1fe-49cd-a22a-6dfb92c3994c,4e7beaee-50c2-4609-8a2b-b32fb3dc5a3b,2947-0,Sodium,137.0,mmol/L
+2008-06-02,96b24072-e1fe-49cd-a22a-6dfb92c3994c,4e7beaee-50c2-4609-8a2b-b32fb3dc5a3b,6298-4,Potassium,4.67,mmol/L
+2008-06-02,96b24072-e1fe-49cd-a22a-6dfb92c3994c,4e7beaee-50c2-4609-8a2b-b32fb3dc5a3b,2069-3,Chloride,106.0,mmol/L
+2008-06-02,96b24072-e1fe-49cd-a22a-6dfb92c3994c,4e7beaee-50c2-4609-8a2b-b32fb3dc5a3b,20565-8,Carbon Dioxide,21.0,mmol/L
+2008-06-02,96b24072-e1fe-49cd-a22a-6dfb92c3994c,4e7beaee-50c2-4609-8a2b-b32fb3dc5a3b,2093-3,Total Cholesterol,174.0,mg/dL
+2008-06-02,96b24072-e1fe-49cd-a22a-6dfb92c3994c,4e7beaee-50c2-4609-8a2b-b32fb3dc5a3b,2571-8,Triglycerides,118.0,mg/dL
+2008-06-02,96b24072-e1fe-49cd-a22a-6dfb92c3994c,4e7beaee-50c2-4609-8a2b-b32fb3dc5a3b,18262-6,Low Density Lipoprotein Cholesterol,73.0,mg/dL
+2008-06-02,96b24072-e1fe-49cd-a22a-6dfb92c3994c,4e7beaee-50c2-4609-8a2b-b32fb3dc5a3b,2085-9,High Density Lipoprotein Cholesterol,77.0,mg/dL
+2008-06-02,96b24072-e1fe-49cd-a22a-6dfb92c3994c,4e7beaee-50c2-4609-8a2b-b32fb3dc5a3b,14959-1,Microalbumin Creatinine Ratio,7.0,mg/g
+2008-06-02,96b24072-e1fe-49cd-a22a-6dfb92c3994c,4e7beaee-50c2-4609-8a2b-b32fb3dc5a3b,33914-3,Estimated Glomerular Filtration Rate,57.0,mL/min/{1.73_m2}
+2009-05-15,96b24072-e1fe-49cd-a22a-6dfb92c3994c,cac10621-ec28-427c-bb64-366874c07579,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2.2,%
+2009-05-15,96b24072-e1fe-49cd-a22a-6dfb92c3994c,cac10621-ec28-427c-bb64-366874c07579,8302-2,Body Height,164.43,cm
+2009-05-15,96b24072-e1fe-49cd-a22a-6dfb92c3994c,cac10621-ec28-427c-bb64-366874c07579,29463-7,Body Weight,105.04,kg
+2009-05-15,96b24072-e1fe-49cd-a22a-6dfb92c3994c,cac10621-ec28-427c-bb64-366874c07579,39156-5,Body Mass Index,38.85,kg/m2
+2009-05-15,96b24072-e1fe-49cd-a22a-6dfb92c3994c,cac10621-ec28-427c-bb64-366874c07579,8480-6,Systolic Blood Pressure,116.0,mmHg
+2009-05-15,96b24072-e1fe-49cd-a22a-6dfb92c3994c,cac10621-ec28-427c-bb64-366874c07579,8462-4,Diastolic Blood Pressure,81.0,mmHg
+2009-05-15,96b24072-e1fe-49cd-a22a-6dfb92c3994c,cac10621-ec28-427c-bb64-366874c07579,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2.2,%
+2009-05-15,96b24072-e1fe-49cd-a22a-6dfb92c3994c,cac10621-ec28-427c-bb64-366874c07579,2339-0,Glucose,76.0,mg/dL
+2009-05-15,96b24072-e1fe-49cd-a22a-6dfb92c3994c,cac10621-ec28-427c-bb64-366874c07579,6299-2,Urea Nitrogen,15.0,mg/dL
+2009-05-15,96b24072-e1fe-49cd-a22a-6dfb92c3994c,cac10621-ec28-427c-bb64-366874c07579,38483-4,Creatinine,1.0,mg/dL
+2009-05-15,96b24072-e1fe-49cd-a22a-6dfb92c3994c,cac10621-ec28-427c-bb64-366874c07579,49765-1,Calcium,10.05,mg/dL
+2009-05-15,96b24072-e1fe-49cd-a22a-6dfb92c3994c,cac10621-ec28-427c-bb64-366874c07579,2947-0,Sodium,136.0,mmol/L
+2009-05-15,96b24072-e1fe-49cd-a22a-6dfb92c3994c,cac10621-ec28-427c-bb64-366874c07579,6298-4,Potassium,4.69,mmol/L
+2009-05-15,96b24072-e1fe-49cd-a22a-6dfb92c3994c,cac10621-ec28-427c-bb64-366874c07579,2069-3,Chloride,103.0,mmol/L
+2009-05-15,96b24072-e1fe-49cd-a22a-6dfb92c3994c,cac10621-ec28-427c-bb64-366874c07579,20565-8,Carbon Dioxide,24.0,mmol/L
+2009-05-15,96b24072-e1fe-49cd-a22a-6dfb92c3994c,cac10621-ec28-427c-bb64-366874c07579,2093-3,Total Cholesterol,188.0,mg/dL
+2009-05-15,96b24072-e1fe-49cd-a22a-6dfb92c3994c,cac10621-ec28-427c-bb64-366874c07579,2571-8,Triglycerides,122.0,mg/dL
+2009-05-15,96b24072-e1fe-49cd-a22a-6dfb92c3994c,cac10621-ec28-427c-bb64-366874c07579,18262-6,Low Density Lipoprotein Cholesterol,104.0,mg/dL
+2009-05-15,96b24072-e1fe-49cd-a22a-6dfb92c3994c,cac10621-ec28-427c-bb64-366874c07579,2085-9,High Density Lipoprotein Cholesterol,59.0,mg/dL
+2009-05-15,96b24072-e1fe-49cd-a22a-6dfb92c3994c,cac10621-ec28-427c-bb64-366874c07579,14959-1,Microalbumin Creatinine Ratio,3.0,mg/g
+2009-05-15,96b24072-e1fe-49cd-a22a-6dfb92c3994c,cac10621-ec28-427c-bb64-366874c07579,33914-3,Estimated Glomerular Filtration Rate,60.0,mL/min/{1.73_m2}
+2010-05-06,96b24072-e1fe-49cd-a22a-6dfb92c3994c,03d2235c-ec8a-448d-a5d4-2958a77ca5ce,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2.1,%
+2010-05-06,96b24072-e1fe-49cd-a22a-6dfb92c3994c,03d2235c-ec8a-448d-a5d4-2958a77ca5ce,8302-2,Body Height,164.43,cm
+2010-05-06,96b24072-e1fe-49cd-a22a-6dfb92c3994c,03d2235c-ec8a-448d-a5d4-2958a77ca5ce,29463-7,Body Weight,103.91,kg
+2010-05-06,96b24072-e1fe-49cd-a22a-6dfb92c3994c,03d2235c-ec8a-448d-a5d4-2958a77ca5ce,39156-5,Body Mass Index,38.43,kg/m2
+2010-05-06,96b24072-e1fe-49cd-a22a-6dfb92c3994c,03d2235c-ec8a-448d-a5d4-2958a77ca5ce,8480-6,Systolic Blood Pressure,134.0,mmHg
+2010-05-06,96b24072-e1fe-49cd-a22a-6dfb92c3994c,03d2235c-ec8a-448d-a5d4-2958a77ca5ce,8462-4,Diastolic Blood Pressure,80.0,mmHg
+2010-05-06,96b24072-e1fe-49cd-a22a-6dfb92c3994c,03d2235c-ec8a-448d-a5d4-2958a77ca5ce,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2.1,%
+2010-05-06,96b24072-e1fe-49cd-a22a-6dfb92c3994c,03d2235c-ec8a-448d-a5d4-2958a77ca5ce,2339-0,Glucose,82.0,mg/dL
+2010-05-06,96b24072-e1fe-49cd-a22a-6dfb92c3994c,03d2235c-ec8a-448d-a5d4-2958a77ca5ce,6299-2,Urea Nitrogen,20.0,mg/dL
+2010-05-06,96b24072-e1fe-49cd-a22a-6dfb92c3994c,03d2235c-ec8a-448d-a5d4-2958a77ca5ce,38483-4,Creatinine,1.0,mg/dL
+2010-05-06,96b24072-e1fe-49cd-a22a-6dfb92c3994c,03d2235c-ec8a-448d-a5d4-2958a77ca5ce,49765-1,Calcium,8.85,mg/dL
+2010-05-06,96b24072-e1fe-49cd-a22a-6dfb92c3994c,03d2235c-ec8a-448d-a5d4-2958a77ca5ce,2947-0,Sodium,136.0,mmol/L
+2010-05-06,96b24072-e1fe-49cd-a22a-6dfb92c3994c,03d2235c-ec8a-448d-a5d4-2958a77ca5ce,6298-4,Potassium,3.77,mmol/L
+2010-05-06,96b24072-e1fe-49cd-a22a-6dfb92c3994c,03d2235c-ec8a-448d-a5d4-2958a77ca5ce,2069-3,Chloride,106.0,mmol/L
+2010-05-06,96b24072-e1fe-49cd-a22a-6dfb92c3994c,03d2235c-ec8a-448d-a5d4-2958a77ca5ce,20565-8,Carbon Dioxide,20.0,mmol/L
+2010-05-06,96b24072-e1fe-49cd-a22a-6dfb92c3994c,03d2235c-ec8a-448d-a5d4-2958a77ca5ce,2093-3,Total Cholesterol,178.0,mg/dL
+2010-05-06,96b24072-e1fe-49cd-a22a-6dfb92c3994c,03d2235c-ec8a-448d-a5d4-2958a77ca5ce,2571-8,Triglycerides,109.0,mg/dL
+2010-05-06,96b24072-e1fe-49cd-a22a-6dfb92c3994c,03d2235c-ec8a-448d-a5d4-2958a77ca5ce,18262-6,Low Density Lipoprotein Cholesterol,84.0,mg/dL
+2010-05-06,96b24072-e1fe-49cd-a22a-6dfb92c3994c,03d2235c-ec8a-448d-a5d4-2958a77ca5ce,2085-9,High Density Lipoprotein Cholesterol,72.0,mg/dL
+2010-05-06,96b24072-e1fe-49cd-a22a-6dfb92c3994c,03d2235c-ec8a-448d-a5d4-2958a77ca5ce,14959-1,Microalbumin Creatinine Ratio,9.0,mg/g
+2010-05-06,96b24072-e1fe-49cd-a22a-6dfb92c3994c,03d2235c-ec8a-448d-a5d4-2958a77ca5ce,33914-3,Estimated Glomerular Filtration Rate,60.0,mL/min/{1.73_m2}
+2010-06-22,96b24072-e1fe-49cd-a22a-6dfb92c3994c,24293a59-d876-418c-9630-8e4f3731bd70,38265-5,DXA [T-score] Bone density,0.36,{T-score}
+2011-06-02,96b24072-e1fe-49cd-a22a-6dfb92c3994c,4bed31f0-5a1e-4124-a3c5-4e3c34b13e88,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2.0,%
+2011-06-02,96b24072-e1fe-49cd-a22a-6dfb92c3994c,4bed31f0-5a1e-4124-a3c5-4e3c34b13e88,8302-2,Body Height,164.43,cm
+2011-06-02,96b24072-e1fe-49cd-a22a-6dfb92c3994c,4bed31f0-5a1e-4124-a3c5-4e3c34b13e88,29463-7,Body Weight,102.37,kg
+2011-06-02,96b24072-e1fe-49cd-a22a-6dfb92c3994c,4bed31f0-5a1e-4124-a3c5-4e3c34b13e88,39156-5,Body Mass Index,37.86,kg/m2
+2011-06-02,96b24072-e1fe-49cd-a22a-6dfb92c3994c,4bed31f0-5a1e-4124-a3c5-4e3c34b13e88,8480-6,Systolic Blood Pressure,124.0,mmHg
+2011-06-02,96b24072-e1fe-49cd-a22a-6dfb92c3994c,4bed31f0-5a1e-4124-a3c5-4e3c34b13e88,8462-4,Diastolic Blood Pressure,70.0,mmHg
+2011-06-02,96b24072-e1fe-49cd-a22a-6dfb92c3994c,4bed31f0-5a1e-4124-a3c5-4e3c34b13e88,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2.0,%
+2011-06-02,96b24072-e1fe-49cd-a22a-6dfb92c3994c,4bed31f0-5a1e-4124-a3c5-4e3c34b13e88,2339-0,Glucose,76.0,mg/dL
+2011-06-02,96b24072-e1fe-49cd-a22a-6dfb92c3994c,4bed31f0-5a1e-4124-a3c5-4e3c34b13e88,6299-2,Urea Nitrogen,12.0,mg/dL
+2011-06-02,96b24072-e1fe-49cd-a22a-6dfb92c3994c,4bed31f0-5a1e-4124-a3c5-4e3c34b13e88,38483-4,Creatinine,1.0,mg/dL
+2011-06-02,96b24072-e1fe-49cd-a22a-6dfb92c3994c,4bed31f0-5a1e-4124-a3c5-4e3c34b13e88,49765-1,Calcium,9.17,mg/dL
+2011-06-02,96b24072-e1fe-49cd-a22a-6dfb92c3994c,4bed31f0-5a1e-4124-a3c5-4e3c34b13e88,2947-0,Sodium,142.0,mmol/L
+2011-06-02,96b24072-e1fe-49cd-a22a-6dfb92c3994c,4bed31f0-5a1e-4124-a3c5-4e3c34b13e88,6298-4,Potassium,4.77,mmol/L
+2011-06-02,96b24072-e1fe-49cd-a22a-6dfb92c3994c,4bed31f0-5a1e-4124-a3c5-4e3c34b13e88,2069-3,Chloride,111.0,mmol/L
+2011-06-02,96b24072-e1fe-49cd-a22a-6dfb92c3994c,4bed31f0-5a1e-4124-a3c5-4e3c34b13e88,20565-8,Carbon Dioxide,22.0,mmol/L
+2011-06-02,96b24072-e1fe-49cd-a22a-6dfb92c3994c,4bed31f0-5a1e-4124-a3c5-4e3c34b13e88,2093-3,Total Cholesterol,160.0,mg/dL
+2011-06-02,96b24072-e1fe-49cd-a22a-6dfb92c3994c,4bed31f0-5a1e-4124-a3c5-4e3c34b13e88,2571-8,Triglycerides,113.0,mg/dL
+2011-06-02,96b24072-e1fe-49cd-a22a-6dfb92c3994c,4bed31f0-5a1e-4124-a3c5-4e3c34b13e88,18262-6,Low Density Lipoprotein Cholesterol,61.0,mg/dL
+2011-06-02,96b24072-e1fe-49cd-a22a-6dfb92c3994c,4bed31f0-5a1e-4124-a3c5-4e3c34b13e88,2085-9,High Density Lipoprotein Cholesterol,76.0,mg/dL
+2011-06-02,96b24072-e1fe-49cd-a22a-6dfb92c3994c,4bed31f0-5a1e-4124-a3c5-4e3c34b13e88,14959-1,Microalbumin Creatinine Ratio,4.0,mg/g
+2011-06-02,96b24072-e1fe-49cd-a22a-6dfb92c3994c,4bed31f0-5a1e-4124-a3c5-4e3c34b13e88,33914-3,Estimated Glomerular Filtration Rate,60.0,mL/min/{1.73_m2}
+2012-06-20,96b24072-e1fe-49cd-a22a-6dfb92c3994c,b776bdbe-3c58-4d2c-80e0-0488463c3f3b,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,1.9,%
+2012-06-20,96b24072-e1fe-49cd-a22a-6dfb92c3994c,b776bdbe-3c58-4d2c-80e0-0488463c3f3b,8302-2,Body Height,164.43,cm
+2012-06-20,96b24072-e1fe-49cd-a22a-6dfb92c3994c,b776bdbe-3c58-4d2c-80e0-0488463c3f3b,29463-7,Body Weight,101.2,kg
+2012-06-20,96b24072-e1fe-49cd-a22a-6dfb92c3994c,b776bdbe-3c58-4d2c-80e0-0488463c3f3b,39156-5,Body Mass Index,37.43,kg/m2
+2012-06-20,96b24072-e1fe-49cd-a22a-6dfb92c3994c,b776bdbe-3c58-4d2c-80e0-0488463c3f3b,8480-6,Systolic Blood Pressure,105.0,mmHg
+2012-06-20,96b24072-e1fe-49cd-a22a-6dfb92c3994c,b776bdbe-3c58-4d2c-80e0-0488463c3f3b,8462-4,Diastolic Blood Pressure,86.0,mmHg
+2012-06-20,96b24072-e1fe-49cd-a22a-6dfb92c3994c,b776bdbe-3c58-4d2c-80e0-0488463c3f3b,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,1.9,%
+2012-06-20,96b24072-e1fe-49cd-a22a-6dfb92c3994c,b776bdbe-3c58-4d2c-80e0-0488463c3f3b,2339-0,Glucose,75.0,mg/dL
+2012-06-20,96b24072-e1fe-49cd-a22a-6dfb92c3994c,b776bdbe-3c58-4d2c-80e0-0488463c3f3b,6299-2,Urea Nitrogen,18.0,mg/dL
+2012-06-20,96b24072-e1fe-49cd-a22a-6dfb92c3994c,b776bdbe-3c58-4d2c-80e0-0488463c3f3b,38483-4,Creatinine,1.0,mg/dL
+2012-06-20,96b24072-e1fe-49cd-a22a-6dfb92c3994c,b776bdbe-3c58-4d2c-80e0-0488463c3f3b,49765-1,Calcium,9.3,mg/dL
+2012-06-20,96b24072-e1fe-49cd-a22a-6dfb92c3994c,b776bdbe-3c58-4d2c-80e0-0488463c3f3b,2947-0,Sodium,139.0,mmol/L
+2012-06-20,96b24072-e1fe-49cd-a22a-6dfb92c3994c,b776bdbe-3c58-4d2c-80e0-0488463c3f3b,6298-4,Potassium,4.78,mmol/L
+2012-06-20,96b24072-e1fe-49cd-a22a-6dfb92c3994c,b776bdbe-3c58-4d2c-80e0-0488463c3f3b,2069-3,Chloride,102.0,mmol/L
+2012-06-20,96b24072-e1fe-49cd-a22a-6dfb92c3994c,b776bdbe-3c58-4d2c-80e0-0488463c3f3b,20565-8,Carbon Dioxide,25.0,mmol/L
+2012-06-20,96b24072-e1fe-49cd-a22a-6dfb92c3994c,b776bdbe-3c58-4d2c-80e0-0488463c3f3b,2093-3,Total Cholesterol,166.0,mg/dL
+2012-06-20,96b24072-e1fe-49cd-a22a-6dfb92c3994c,b776bdbe-3c58-4d2c-80e0-0488463c3f3b,2571-8,Triglycerides,110.0,mg/dL
+2012-06-20,96b24072-e1fe-49cd-a22a-6dfb92c3994c,b776bdbe-3c58-4d2c-80e0-0488463c3f3b,18262-6,Low Density Lipoprotein Cholesterol,80.0,mg/dL
+2012-06-20,96b24072-e1fe-49cd-a22a-6dfb92c3994c,b776bdbe-3c58-4d2c-80e0-0488463c3f3b,2085-9,High Density Lipoprotein Cholesterol,64.0,mg/dL
+2012-06-20,96b24072-e1fe-49cd-a22a-6dfb92c3994c,b776bdbe-3c58-4d2c-80e0-0488463c3f3b,14959-1,Microalbumin Creatinine Ratio,14.0,mg/g
+2012-06-20,96b24072-e1fe-49cd-a22a-6dfb92c3994c,b776bdbe-3c58-4d2c-80e0-0488463c3f3b,33914-3,Estimated Glomerular Filtration Rate,58.0,mL/min/{1.73_m2}
+2012-10-31,96b24072-e1fe-49cd-a22a-6dfb92c3994c,9ec681cd-bebe-4230-a43c-43557d71fd25,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,1.8,%
+2012-10-31,96b24072-e1fe-49cd-a22a-6dfb92c3994c,9ec681cd-bebe-4230-a43c-43557d71fd25,8302-2,Body Height,164.43,cm
+2012-10-31,96b24072-e1fe-49cd-a22a-6dfb92c3994c,9ec681cd-bebe-4230-a43c-43557d71fd25,29463-7,Body Weight,100.18,kg
+2012-10-31,96b24072-e1fe-49cd-a22a-6dfb92c3994c,9ec681cd-bebe-4230-a43c-43557d71fd25,39156-5,Body Mass Index,37.06,kg/m2
+2012-10-31,96b24072-e1fe-49cd-a22a-6dfb92c3994c,9ec681cd-bebe-4230-a43c-43557d71fd25,8480-6,Systolic Blood Pressure,138.0,mmHg
+2012-10-31,96b24072-e1fe-49cd-a22a-6dfb92c3994c,9ec681cd-bebe-4230-a43c-43557d71fd25,8462-4,Diastolic Blood Pressure,71.0,mmHg
+2012-10-31,96b24072-e1fe-49cd-a22a-6dfb92c3994c,9ec681cd-bebe-4230-a43c-43557d71fd25,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,1.8,%
+2012-10-31,96b24072-e1fe-49cd-a22a-6dfb92c3994c,9ec681cd-bebe-4230-a43c-43557d71fd25,2339-0,Glucose,73.0,mg/dL
+2012-10-31,96b24072-e1fe-49cd-a22a-6dfb92c3994c,9ec681cd-bebe-4230-a43c-43557d71fd25,6299-2,Urea Nitrogen,16.0,mg/dL
+2012-10-31,96b24072-e1fe-49cd-a22a-6dfb92c3994c,9ec681cd-bebe-4230-a43c-43557d71fd25,38483-4,Creatinine,1.0,mg/dL
+2012-10-31,96b24072-e1fe-49cd-a22a-6dfb92c3994c,9ec681cd-bebe-4230-a43c-43557d71fd25,49765-1,Calcium,8.59,mg/dL
+2012-10-31,96b24072-e1fe-49cd-a22a-6dfb92c3994c,9ec681cd-bebe-4230-a43c-43557d71fd25,2947-0,Sodium,144.0,mmol/L
+2012-10-31,96b24072-e1fe-49cd-a22a-6dfb92c3994c,9ec681cd-bebe-4230-a43c-43557d71fd25,6298-4,Potassium,4.64,mmol/L
+2012-10-31,96b24072-e1fe-49cd-a22a-6dfb92c3994c,9ec681cd-bebe-4230-a43c-43557d71fd25,2069-3,Chloride,107.0,mmol/L
+2012-10-31,96b24072-e1fe-49cd-a22a-6dfb92c3994c,9ec681cd-bebe-4230-a43c-43557d71fd25,20565-8,Carbon Dioxide,20.0,mmol/L
+2012-10-31,96b24072-e1fe-49cd-a22a-6dfb92c3994c,9ec681cd-bebe-4230-a43c-43557d71fd25,2093-3,Total Cholesterol,186.0,mg/dL
+2012-10-31,96b24072-e1fe-49cd-a22a-6dfb92c3994c,9ec681cd-bebe-4230-a43c-43557d71fd25,2571-8,Triglycerides,140.0,mg/dL
+2012-10-31,96b24072-e1fe-49cd-a22a-6dfb92c3994c,9ec681cd-bebe-4230-a43c-43557d71fd25,18262-6,Low Density Lipoprotein Cholesterol,83.0,mg/dL
+2012-10-31,96b24072-e1fe-49cd-a22a-6dfb92c3994c,9ec681cd-bebe-4230-a43c-43557d71fd25,2085-9,High Density Lipoprotein Cholesterol,75.0,mg/dL
+2012-10-31,96b24072-e1fe-49cd-a22a-6dfb92c3994c,9ec681cd-bebe-4230-a43c-43557d71fd25,14959-1,Microalbumin Creatinine Ratio,8.0,mg/g
+2012-10-31,96b24072-e1fe-49cd-a22a-6dfb92c3994c,9ec681cd-bebe-4230-a43c-43557d71fd25,33914-3,Estimated Glomerular Filtration Rate,56.0,mL/min/{1.73_m2}
+2013-04-16,96b24072-e1fe-49cd-a22a-6dfb92c3994c,b16c1596-0e1e-4f16-9ca6-aa8527c1dcd4,76690-7,Sexual orientation,heterosexual,{nominal}
+2013-04-16,96b24072-e1fe-49cd-a22a-6dfb92c3994c,b16c1596-0e1e-4f16-9ca6-aa8527c1dcd4,55277-8,HIV status,not HIV positive,{nominal}
+2013-04-16,96b24072-e1fe-49cd-a22a-6dfb92c3994c,b16c1596-0e1e-4f16-9ca6-aa8527c1dcd4,28245-9,Abuse Status [OMAHA],No signs/symptoms,{nominal}
+2013-04-16,96b24072-e1fe-49cd-a22a-6dfb92c3994c,b16c1596-0e1e-4f16-9ca6-aa8527c1dcd4,71802-3,Housing status,Patient is homeless,{nominal}
+2013-04-16,96b24072-e1fe-49cd-a22a-6dfb92c3994c,b16c1596-0e1e-4f16-9ca6-aa8527c1dcd4,63513-6,Are you covered by health insurance or some other kind of health care plan [PhenX],No,{nominal}
+2013-04-16,96b24072-e1fe-49cd-a22a-6dfb92c3994c,b16c1596-0e1e-4f16-9ca6-aa8527c1dcd4,46240-8,History of Hospitalizations+​Outpatient visits,7.0,{count}
+2013-05-01,96b24072-e1fe-49cd-a22a-6dfb92c3994c,347212df-427e-43eb-b457-742cbd0c2316,8331-1,Oral temperature,37.0,Cel
+2013-05-16,96b24072-e1fe-49cd-a22a-6dfb92c3994c,2445edf4-38e9-49e8-9472-4cd7aa271f6a,76690-7,Sexual orientation,heterosexual,{nominal}
+2013-05-16,96b24072-e1fe-49cd-a22a-6dfb92c3994c,2445edf4-38e9-49e8-9472-4cd7aa271f6a,55277-8,HIV status,not HIV positive,{nominal}
+2013-05-16,96b24072-e1fe-49cd-a22a-6dfb92c3994c,2445edf4-38e9-49e8-9472-4cd7aa271f6a,28245-9,Abuse Status [OMAHA],No signs/symptoms,{nominal}
+2013-05-16,96b24072-e1fe-49cd-a22a-6dfb92c3994c,2445edf4-38e9-49e8-9472-4cd7aa271f6a,71802-3,Housing status,Patient is homeless,{nominal}
+2013-05-16,96b24072-e1fe-49cd-a22a-6dfb92c3994c,2445edf4-38e9-49e8-9472-4cd7aa271f6a,63513-6,Are you covered by health insurance or some other kind of health care plan [PhenX],No,{nominal}
+2013-05-16,96b24072-e1fe-49cd-a22a-6dfb92c3994c,2445edf4-38e9-49e8-9472-4cd7aa271f6a,46240-8,History of Hospitalizations+​Outpatient visits,0.0,{count}
+2013-07-16,96b24072-e1fe-49cd-a22a-6dfb92c3994c,563f1ce7-28c9-4606-86f8-da20da5b4ae2,76690-7,Sexual orientation,heterosexual,{nominal}
+2013-07-16,96b24072-e1fe-49cd-a22a-6dfb92c3994c,563f1ce7-28c9-4606-86f8-da20da5b4ae2,55277-8,HIV status,not HIV positive,{nominal}
+2013-07-16,96b24072-e1fe-49cd-a22a-6dfb92c3994c,563f1ce7-28c9-4606-86f8-da20da5b4ae2,28245-9,Abuse Status [OMAHA],No signs/symptoms,{nominal}
+2013-07-16,96b24072-e1fe-49cd-a22a-6dfb92c3994c,563f1ce7-28c9-4606-86f8-da20da5b4ae2,71802-3,Housing status,Patient is homeless,{nominal}
+2013-07-16,96b24072-e1fe-49cd-a22a-6dfb92c3994c,563f1ce7-28c9-4606-86f8-da20da5b4ae2,63513-6,Are you covered by health insurance or some other kind of health care plan [PhenX],Yes,{nominal}
+2013-07-16,96b24072-e1fe-49cd-a22a-6dfb92c3994c,563f1ce7-28c9-4606-86f8-da20da5b4ae2,46240-8,History of Hospitalizations+​Outpatient visits,3.0,{count}
+2013-07-13,96b24072-e1fe-49cd-a22a-6dfb92c3994c,563f1ce7-28c9-4606-86f8-da20da5b4ae2,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,1.8,%
+2013-07-13,96b24072-e1fe-49cd-a22a-6dfb92c3994c,563f1ce7-28c9-4606-86f8-da20da5b4ae2,8302-2,Body Height,164.43,cm
+2013-07-13,96b24072-e1fe-49cd-a22a-6dfb92c3994c,563f1ce7-28c9-4606-86f8-da20da5b4ae2,29463-7,Body Weight,100.18,kg
+2013-07-13,96b24072-e1fe-49cd-a22a-6dfb92c3994c,563f1ce7-28c9-4606-86f8-da20da5b4ae2,39156-5,Body Mass Index,37.06,kg/m2
+2013-07-13,96b24072-e1fe-49cd-a22a-6dfb92c3994c,563f1ce7-28c9-4606-86f8-da20da5b4ae2,8480-6,Systolic Blood Pressure,112.0,mmHg
+2013-07-13,96b24072-e1fe-49cd-a22a-6dfb92c3994c,563f1ce7-28c9-4606-86f8-da20da5b4ae2,8462-4,Diastolic Blood Pressure,84.0,mmHg
+2013-07-13,96b24072-e1fe-49cd-a22a-6dfb92c3994c,563f1ce7-28c9-4606-86f8-da20da5b4ae2,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,1.8,%
+2013-07-13,96b24072-e1fe-49cd-a22a-6dfb92c3994c,563f1ce7-28c9-4606-86f8-da20da5b4ae2,2339-0,Glucose,88.0,mg/dL
+2013-07-13,96b24072-e1fe-49cd-a22a-6dfb92c3994c,563f1ce7-28c9-4606-86f8-da20da5b4ae2,6299-2,Urea Nitrogen,8.0,mg/dL
+2013-07-13,96b24072-e1fe-49cd-a22a-6dfb92c3994c,563f1ce7-28c9-4606-86f8-da20da5b4ae2,38483-4,Creatinine,1.0,mg/dL
+2013-07-13,96b24072-e1fe-49cd-a22a-6dfb92c3994c,563f1ce7-28c9-4606-86f8-da20da5b4ae2,49765-1,Calcium,9.67,mg/dL
+2013-07-13,96b24072-e1fe-49cd-a22a-6dfb92c3994c,563f1ce7-28c9-4606-86f8-da20da5b4ae2,2947-0,Sodium,143.0,mmol/L
+2013-07-13,96b24072-e1fe-49cd-a22a-6dfb92c3994c,563f1ce7-28c9-4606-86f8-da20da5b4ae2,6298-4,Potassium,4.56,mmol/L
+2013-07-13,96b24072-e1fe-49cd-a22a-6dfb92c3994c,563f1ce7-28c9-4606-86f8-da20da5b4ae2,2069-3,Chloride,104.0,mmol/L
+2013-07-13,96b24072-e1fe-49cd-a22a-6dfb92c3994c,563f1ce7-28c9-4606-86f8-da20da5b4ae2,20565-8,Carbon Dioxide,26.0,mmol/L
+2013-07-13,96b24072-e1fe-49cd-a22a-6dfb92c3994c,563f1ce7-28c9-4606-86f8-da20da5b4ae2,2093-3,Total Cholesterol,164.0,mg/dL
+2013-07-13,96b24072-e1fe-49cd-a22a-6dfb92c3994c,563f1ce7-28c9-4606-86f8-da20da5b4ae2,2571-8,Triglycerides,130.0,mg/dL
+2013-07-13,96b24072-e1fe-49cd-a22a-6dfb92c3994c,563f1ce7-28c9-4606-86f8-da20da5b4ae2,18262-6,Low Density Lipoprotein Cholesterol,66.0,mg/dL
+2013-07-13,96b24072-e1fe-49cd-a22a-6dfb92c3994c,563f1ce7-28c9-4606-86f8-da20da5b4ae2,2085-9,High Density Lipoprotein Cholesterol,72.0,mg/dL
+2013-07-13,96b24072-e1fe-49cd-a22a-6dfb92c3994c,563f1ce7-28c9-4606-86f8-da20da5b4ae2,14959-1,Microalbumin Creatinine Ratio,13.0,mg/g
+2013-07-13,96b24072-e1fe-49cd-a22a-6dfb92c3994c,563f1ce7-28c9-4606-86f8-da20da5b4ae2,33914-3,Estimated Glomerular Filtration Rate,60.0,mL/min/{1.73_m2}
+2013-08-16,96b24072-e1fe-49cd-a22a-6dfb92c3994c,56dc94cc-f2cd-427f-b79f-c44ed1ea0db0,76690-7,Sexual orientation,heterosexual,{nominal}
+2013-08-16,96b24072-e1fe-49cd-a22a-6dfb92c3994c,56dc94cc-f2cd-427f-b79f-c44ed1ea0db0,55277-8,HIV status,not HIV positive,{nominal}
+2013-08-16,96b24072-e1fe-49cd-a22a-6dfb92c3994c,56dc94cc-f2cd-427f-b79f-c44ed1ea0db0,28245-9,Abuse Status [OMAHA],No signs/symptoms,{nominal}
+2013-08-16,96b24072-e1fe-49cd-a22a-6dfb92c3994c,56dc94cc-f2cd-427f-b79f-c44ed1ea0db0,71802-3,Housing status,Patient is homeless,{nominal}
+2013-08-16,96b24072-e1fe-49cd-a22a-6dfb92c3994c,56dc94cc-f2cd-427f-b79f-c44ed1ea0db0,63513-6,Are you covered by health insurance or some other kind of health care plan [PhenX],No,{nominal}
+2013-08-16,96b24072-e1fe-49cd-a22a-6dfb92c3994c,56dc94cc-f2cd-427f-b79f-c44ed1ea0db0,46240-8,History of Hospitalizations+​Outpatient visits,3.0,{count}
+2013-12-16,96b24072-e1fe-49cd-a22a-6dfb92c3994c,ab703308-e57a-4aa9-b8ef-d0fb07b60ab4,76690-7,Sexual orientation,heterosexual,{nominal}
+2013-12-16,96b24072-e1fe-49cd-a22a-6dfb92c3994c,ab703308-e57a-4aa9-b8ef-d0fb07b60ab4,55277-8,HIV status,not HIV positive,{nominal}
+2013-12-16,96b24072-e1fe-49cd-a22a-6dfb92c3994c,ab703308-e57a-4aa9-b8ef-d0fb07b60ab4,28245-9,Abuse Status [OMAHA],No signs/symptoms,{nominal}
+2013-12-16,96b24072-e1fe-49cd-a22a-6dfb92c3994c,ab703308-e57a-4aa9-b8ef-d0fb07b60ab4,71802-3,Housing status,Patient is homeless,{nominal}
+2013-12-16,96b24072-e1fe-49cd-a22a-6dfb92c3994c,ab703308-e57a-4aa9-b8ef-d0fb07b60ab4,63513-6,Are you covered by health insurance or some other kind of health care plan [PhenX],Yes,{nominal}
+2013-12-16,96b24072-e1fe-49cd-a22a-6dfb92c3994c,ab703308-e57a-4aa9-b8ef-d0fb07b60ab4,46240-8,History of Hospitalizations+​Outpatient visits,8.0,{count}
+2014-05-31,96b24072-e1fe-49cd-a22a-6dfb92c3994c,ed4d7967-5b4f-4f3b-a3b1-5cae7390de1f,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,1.7,%
+2014-05-31,96b24072-e1fe-49cd-a22a-6dfb92c3994c,ed4d7967-5b4f-4f3b-a3b1-5cae7390de1f,8302-2,Body Height,164.43,cm
+2014-05-31,96b24072-e1fe-49cd-a22a-6dfb92c3994c,ed4d7967-5b4f-4f3b-a3b1-5cae7390de1f,29463-7,Body Weight,98.96,kg
+2014-05-31,96b24072-e1fe-49cd-a22a-6dfb92c3994c,ed4d7967-5b4f-4f3b-a3b1-5cae7390de1f,39156-5,Body Mass Index,36.6,kg/m2
+2014-05-31,96b24072-e1fe-49cd-a22a-6dfb92c3994c,ed4d7967-5b4f-4f3b-a3b1-5cae7390de1f,8480-6,Systolic Blood Pressure,118.0,mmHg
+2014-05-31,96b24072-e1fe-49cd-a22a-6dfb92c3994c,ed4d7967-5b4f-4f3b-a3b1-5cae7390de1f,8462-4,Diastolic Blood Pressure,77.0,mmHg
+2014-05-31,96b24072-e1fe-49cd-a22a-6dfb92c3994c,ed4d7967-5b4f-4f3b-a3b1-5cae7390de1f,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,1.7,%
+2014-05-31,96b24072-e1fe-49cd-a22a-6dfb92c3994c,ed4d7967-5b4f-4f3b-a3b1-5cae7390de1f,2339-0,Glucose,100.0,mg/dL
+2014-05-31,96b24072-e1fe-49cd-a22a-6dfb92c3994c,ed4d7967-5b4f-4f3b-a3b1-5cae7390de1f,6299-2,Urea Nitrogen,16.0,mg/dL
+2014-05-31,96b24072-e1fe-49cd-a22a-6dfb92c3994c,ed4d7967-5b4f-4f3b-a3b1-5cae7390de1f,38483-4,Creatinine,1.0,mg/dL
+2014-05-31,96b24072-e1fe-49cd-a22a-6dfb92c3994c,ed4d7967-5b4f-4f3b-a3b1-5cae7390de1f,49765-1,Calcium,9.56,mg/dL
+2014-05-31,96b24072-e1fe-49cd-a22a-6dfb92c3994c,ed4d7967-5b4f-4f3b-a3b1-5cae7390de1f,2947-0,Sodium,143.0,mmol/L
+2014-05-31,96b24072-e1fe-49cd-a22a-6dfb92c3994c,ed4d7967-5b4f-4f3b-a3b1-5cae7390de1f,6298-4,Potassium,3.76,mmol/L
+2014-05-31,96b24072-e1fe-49cd-a22a-6dfb92c3994c,ed4d7967-5b4f-4f3b-a3b1-5cae7390de1f,2069-3,Chloride,105.0,mmol/L
+2014-05-31,96b24072-e1fe-49cd-a22a-6dfb92c3994c,ed4d7967-5b4f-4f3b-a3b1-5cae7390de1f,20565-8,Carbon Dioxide,22.0,mmol/L
+2014-05-31,96b24072-e1fe-49cd-a22a-6dfb92c3994c,ed4d7967-5b4f-4f3b-a3b1-5cae7390de1f,2093-3,Total Cholesterol,191.0,mg/dL
+2014-05-31,96b24072-e1fe-49cd-a22a-6dfb92c3994c,ed4d7967-5b4f-4f3b-a3b1-5cae7390de1f,2571-8,Triglycerides,107.0,mg/dL
+2014-05-31,96b24072-e1fe-49cd-a22a-6dfb92c3994c,ed4d7967-5b4f-4f3b-a3b1-5cae7390de1f,18262-6,Low Density Lipoprotein Cholesterol,95.0,mg/dL
+2014-05-31,96b24072-e1fe-49cd-a22a-6dfb92c3994c,ed4d7967-5b4f-4f3b-a3b1-5cae7390de1f,2085-9,High Density Lipoprotein Cholesterol,74.0,mg/dL
+2014-05-31,96b24072-e1fe-49cd-a22a-6dfb92c3994c,ed4d7967-5b4f-4f3b-a3b1-5cae7390de1f,14959-1,Microalbumin Creatinine Ratio,13.0,mg/g
+2014-05-31,96b24072-e1fe-49cd-a22a-6dfb92c3994c,ed4d7967-5b4f-4f3b-a3b1-5cae7390de1f,33914-3,Estimated Glomerular Filtration Rate,60.0,mL/min/{1.73_m2}
+2015-04-26,96b24072-e1fe-49cd-a22a-6dfb92c3994c,641f4d89-8b65-485b-975d-7b7f00fe295e,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,1.5,%
+2015-04-26,96b24072-e1fe-49cd-a22a-6dfb92c3994c,641f4d89-8b65-485b-975d-7b7f00fe295e,8302-2,Body Height,164.43,cm
+2015-04-26,96b24072-e1fe-49cd-a22a-6dfb92c3994c,641f4d89-8b65-485b-975d-7b7f00fe295e,29463-7,Body Weight,97.84,kg
+2015-04-26,96b24072-e1fe-49cd-a22a-6dfb92c3994c,641f4d89-8b65-485b-975d-7b7f00fe295e,39156-5,Body Mass Index,36.19,kg/m2
+2015-04-26,96b24072-e1fe-49cd-a22a-6dfb92c3994c,641f4d89-8b65-485b-975d-7b7f00fe295e,8480-6,Systolic Blood Pressure,105.0,mmHg
+2015-04-26,96b24072-e1fe-49cd-a22a-6dfb92c3994c,641f4d89-8b65-485b-975d-7b7f00fe295e,8462-4,Diastolic Blood Pressure,75.0,mmHg
+2015-04-26,96b24072-e1fe-49cd-a22a-6dfb92c3994c,641f4d89-8b65-485b-975d-7b7f00fe295e,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,1.5,%
+2015-04-26,96b24072-e1fe-49cd-a22a-6dfb92c3994c,641f4d89-8b65-485b-975d-7b7f00fe295e,2339-0,Glucose,91.0,mg/dL
+2015-04-26,96b24072-e1fe-49cd-a22a-6dfb92c3994c,641f4d89-8b65-485b-975d-7b7f00fe295e,6299-2,Urea Nitrogen,20.0,mg/dL
+2015-04-26,96b24072-e1fe-49cd-a22a-6dfb92c3994c,641f4d89-8b65-485b-975d-7b7f00fe295e,38483-4,Creatinine,1.0,mg/dL
+2015-04-26,96b24072-e1fe-49cd-a22a-6dfb92c3994c,641f4d89-8b65-485b-975d-7b7f00fe295e,49765-1,Calcium,8.99,mg/dL
+2015-04-26,96b24072-e1fe-49cd-a22a-6dfb92c3994c,641f4d89-8b65-485b-975d-7b7f00fe295e,2947-0,Sodium,142.0,mmol/L
+2015-04-26,96b24072-e1fe-49cd-a22a-6dfb92c3994c,641f4d89-8b65-485b-975d-7b7f00fe295e,6298-4,Potassium,3.7,mmol/L
+2015-04-26,96b24072-e1fe-49cd-a22a-6dfb92c3994c,641f4d89-8b65-485b-975d-7b7f00fe295e,2069-3,Chloride,109.0,mmol/L
+2015-04-26,96b24072-e1fe-49cd-a22a-6dfb92c3994c,641f4d89-8b65-485b-975d-7b7f00fe295e,20565-8,Carbon Dioxide,21.0,mmol/L
+2015-04-26,96b24072-e1fe-49cd-a22a-6dfb92c3994c,641f4d89-8b65-485b-975d-7b7f00fe295e,2093-3,Total Cholesterol,163.0,mg/dL
+2015-04-26,96b24072-e1fe-49cd-a22a-6dfb92c3994c,641f4d89-8b65-485b-975d-7b7f00fe295e,2571-8,Triglycerides,131.0,mg/dL
+2015-04-26,96b24072-e1fe-49cd-a22a-6dfb92c3994c,641f4d89-8b65-485b-975d-7b7f00fe295e,18262-6,Low Density Lipoprotein Cholesterol,68.0,mg/dL
+2015-04-26,96b24072-e1fe-49cd-a22a-6dfb92c3994c,641f4d89-8b65-485b-975d-7b7f00fe295e,2085-9,High Density Lipoprotein Cholesterol,68.0,mg/dL
+2015-04-26,96b24072-e1fe-49cd-a22a-6dfb92c3994c,641f4d89-8b65-485b-975d-7b7f00fe295e,14959-1,Microalbumin Creatinine Ratio,5.0,mg/g
+2015-04-26,96b24072-e1fe-49cd-a22a-6dfb92c3994c,641f4d89-8b65-485b-975d-7b7f00fe295e,33914-3,Estimated Glomerular Filtration Rate,60.0,mL/min/{1.73_m2}
+2016-06-26,96b24072-e1fe-49cd-a22a-6dfb92c3994c,0b70d65c-455f-455d-8378-9db5bfc75ee3,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,1.4,%
+2016-06-26,96b24072-e1fe-49cd-a22a-6dfb92c3994c,0b70d65c-455f-455d-8378-9db5bfc75ee3,8302-2,Body Height,164.43,cm
+2016-06-26,96b24072-e1fe-49cd-a22a-6dfb92c3994c,0b70d65c-455f-455d-8378-9db5bfc75ee3,29463-7,Body Weight,96.68,kg
+2016-06-26,96b24072-e1fe-49cd-a22a-6dfb92c3994c,0b70d65c-455f-455d-8378-9db5bfc75ee3,39156-5,Body Mass Index,35.76,kg/m2
+2016-06-26,96b24072-e1fe-49cd-a22a-6dfb92c3994c,0b70d65c-455f-455d-8378-9db5bfc75ee3,8480-6,Systolic Blood Pressure,106.0,mmHg
+2016-06-26,96b24072-e1fe-49cd-a22a-6dfb92c3994c,0b70d65c-455f-455d-8378-9db5bfc75ee3,8462-4,Diastolic Blood Pressure,78.0,mmHg
+2016-06-26,96b24072-e1fe-49cd-a22a-6dfb92c3994c,0b70d65c-455f-455d-8378-9db5bfc75ee3,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,1.4,%
+2016-06-26,96b24072-e1fe-49cd-a22a-6dfb92c3994c,0b70d65c-455f-455d-8378-9db5bfc75ee3,2339-0,Glucose,67.0,mg/dL
+2016-06-26,96b24072-e1fe-49cd-a22a-6dfb92c3994c,0b70d65c-455f-455d-8378-9db5bfc75ee3,6299-2,Urea Nitrogen,7.0,mg/dL
+2016-06-26,96b24072-e1fe-49cd-a22a-6dfb92c3994c,0b70d65c-455f-455d-8378-9db5bfc75ee3,38483-4,Creatinine,1.0,mg/dL
+2016-06-26,96b24072-e1fe-49cd-a22a-6dfb92c3994c,0b70d65c-455f-455d-8378-9db5bfc75ee3,49765-1,Calcium,8.89,mg/dL
+2016-06-26,96b24072-e1fe-49cd-a22a-6dfb92c3994c,0b70d65c-455f-455d-8378-9db5bfc75ee3,2947-0,Sodium,143.0,mmol/L
+2016-06-26,96b24072-e1fe-49cd-a22a-6dfb92c3994c,0b70d65c-455f-455d-8378-9db5bfc75ee3,6298-4,Potassium,3.71,mmol/L
+2016-06-26,96b24072-e1fe-49cd-a22a-6dfb92c3994c,0b70d65c-455f-455d-8378-9db5bfc75ee3,2069-3,Chloride,108.0,mmol/L
+2016-06-26,96b24072-e1fe-49cd-a22a-6dfb92c3994c,0b70d65c-455f-455d-8378-9db5bfc75ee3,20565-8,Carbon Dioxide,21.0,mmol/L
+2016-06-26,96b24072-e1fe-49cd-a22a-6dfb92c3994c,0b70d65c-455f-455d-8378-9db5bfc75ee3,2093-3,Total Cholesterol,173.0,mg/dL
+2016-06-26,96b24072-e1fe-49cd-a22a-6dfb92c3994c,0b70d65c-455f-455d-8378-9db5bfc75ee3,2571-8,Triglycerides,134.0,mg/dL
+2016-06-26,96b24072-e1fe-49cd-a22a-6dfb92c3994c,0b70d65c-455f-455d-8378-9db5bfc75ee3,18262-6,Low Density Lipoprotein Cholesterol,75.0,mg/dL
+2016-06-26,96b24072-e1fe-49cd-a22a-6dfb92c3994c,0b70d65c-455f-455d-8378-9db5bfc75ee3,2085-9,High Density Lipoprotein Cholesterol,71.0,mg/dL
+2016-06-26,96b24072-e1fe-49cd-a22a-6dfb92c3994c,0b70d65c-455f-455d-8378-9db5bfc75ee3,14959-1,Microalbumin Creatinine Ratio,12.0,mg/g
+2016-06-26,96b24072-e1fe-49cd-a22a-6dfb92c3994c,0b70d65c-455f-455d-8378-9db5bfc75ee3,33914-3,Estimated Glomerular Filtration Rate,60.0,mL/min/{1.73_m2}
+2017-06-04,96b24072-e1fe-49cd-a22a-6dfb92c3994c,280ca1a6-df33-4aad-87b5-40bb027a33ae,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,1.3,%
+2017-06-04,96b24072-e1fe-49cd-a22a-6dfb92c3994c,280ca1a6-df33-4aad-87b5-40bb027a33ae,8302-2,Body Height,164.43,cm
+2017-06-04,96b24072-e1fe-49cd-a22a-6dfb92c3994c,280ca1a6-df33-4aad-87b5-40bb027a33ae,29463-7,Body Weight,95.59,kg
+2017-06-04,96b24072-e1fe-49cd-a22a-6dfb92c3994c,280ca1a6-df33-4aad-87b5-40bb027a33ae,39156-5,Body Mass Index,35.36,kg/m2
+2017-06-04,96b24072-e1fe-49cd-a22a-6dfb92c3994c,280ca1a6-df33-4aad-87b5-40bb027a33ae,8480-6,Systolic Blood Pressure,126.0,mmHg
+2017-06-04,96b24072-e1fe-49cd-a22a-6dfb92c3994c,280ca1a6-df33-4aad-87b5-40bb027a33ae,8462-4,Diastolic Blood Pressure,77.0,mmHg
+2017-06-04,96b24072-e1fe-49cd-a22a-6dfb92c3994c,280ca1a6-df33-4aad-87b5-40bb027a33ae,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,1.3,%
+2017-06-04,96b24072-e1fe-49cd-a22a-6dfb92c3994c,280ca1a6-df33-4aad-87b5-40bb027a33ae,2339-0,Glucose,97.0,mg/dL
+2017-06-04,96b24072-e1fe-49cd-a22a-6dfb92c3994c,280ca1a6-df33-4aad-87b5-40bb027a33ae,6299-2,Urea Nitrogen,19.0,mg/dL
+2017-06-04,96b24072-e1fe-49cd-a22a-6dfb92c3994c,280ca1a6-df33-4aad-87b5-40bb027a33ae,38483-4,Creatinine,1.0,mg/dL
+2017-06-04,96b24072-e1fe-49cd-a22a-6dfb92c3994c,280ca1a6-df33-4aad-87b5-40bb027a33ae,49765-1,Calcium,9.81,mg/dL
+2017-06-04,96b24072-e1fe-49cd-a22a-6dfb92c3994c,280ca1a6-df33-4aad-87b5-40bb027a33ae,2947-0,Sodium,144.0,mmol/L
+2017-06-04,96b24072-e1fe-49cd-a22a-6dfb92c3994c,280ca1a6-df33-4aad-87b5-40bb027a33ae,6298-4,Potassium,4.08,mmol/L
+2017-06-04,96b24072-e1fe-49cd-a22a-6dfb92c3994c,280ca1a6-df33-4aad-87b5-40bb027a33ae,2069-3,Chloride,110.0,mmol/L
+2017-06-04,96b24072-e1fe-49cd-a22a-6dfb92c3994c,280ca1a6-df33-4aad-87b5-40bb027a33ae,20565-8,Carbon Dioxide,27.0,mmol/L
+2017-06-04,96b24072-e1fe-49cd-a22a-6dfb92c3994c,280ca1a6-df33-4aad-87b5-40bb027a33ae,2093-3,Total Cholesterol,183.0,mg/dL
+2017-06-04,96b24072-e1fe-49cd-a22a-6dfb92c3994c,280ca1a6-df33-4aad-87b5-40bb027a33ae,2571-8,Triglycerides,144.0,mg/dL
+2017-06-04,96b24072-e1fe-49cd-a22a-6dfb92c3994c,280ca1a6-df33-4aad-87b5-40bb027a33ae,18262-6,Low Density Lipoprotein Cholesterol,89.0,mg/dL
+2017-06-04,96b24072-e1fe-49cd-a22a-6dfb92c3994c,280ca1a6-df33-4aad-87b5-40bb027a33ae,2085-9,High Density Lipoprotein Cholesterol,65.0,mg/dL
+2017-06-04,96b24072-e1fe-49cd-a22a-6dfb92c3994c,280ca1a6-df33-4aad-87b5-40bb027a33ae,14959-1,Microalbumin Creatinine Ratio,2.0,mg/g
+2017-06-04,96b24072-e1fe-49cd-a22a-6dfb92c3994c,280ca1a6-df33-4aad-87b5-40bb027a33ae,33914-3,Estimated Glomerular Filtration Rate,60.0,mL/min/{1.73_m2}
+2017-10-31,96b24072-e1fe-49cd-a22a-6dfb92c3994c,,273724008,Quality adjusted life years,70.8838237610288,years
+2017-10-31,96b24072-e1fe-49cd-a22a-6dfb92c3994c,,273421001,Disability rating scale,7.116176238971206,years
+1981-10-09,de43eb48-496c-46d4-8c5b-be6125a38c15,febdc129-bd41-4b7c-b1e7-a4ce07931544,230690007,Stroke,,
+2017-10-31,de43eb48-496c-46d4-8c5b-be6125a38c15,,273724008,Quality adjusted life years,46.531461396231656,years
+2017-10-31,de43eb48-496c-46d4-8c5b-be6125a38c15,,273421001,Disability rating scale,41.11853860376834,years
+2009-06-11,79266ca2-b4e3-45e5-af65-7914bd4511a0,17d887dd-6890-4056-a58e-f6b2b919483a,8302-2,Body Height,177.51,cm
+2009-06-11,79266ca2-b4e3-45e5-af65-7914bd4511a0,17d887dd-6890-4056-a58e-f6b2b919483a,29463-7,Body Weight,99.5,kg
+2009-06-11,79266ca2-b4e3-45e5-af65-7914bd4511a0,17d887dd-6890-4056-a58e-f6b2b919483a,39156-5,Body Mass Index,31.58,kg/m2
+2009-06-11,79266ca2-b4e3-45e5-af65-7914bd4511a0,17d887dd-6890-4056-a58e-f6b2b919483a,8480-6,Systolic Blood Pressure,185.0,mmHg
+2009-06-11,79266ca2-b4e3-45e5-af65-7914bd4511a0,17d887dd-6890-4056-a58e-f6b2b919483a,8462-4,Diastolic Blood Pressure,111.0,mmHg
+2009-06-11,79266ca2-b4e3-45e5-af65-7914bd4511a0,17d887dd-6890-4056-a58e-f6b2b919483a,33914-3,Estimated Glomerular Filtration Rate,60.0,mL/min/{1.73_m2}
+2011-12-25,79266ca2-b4e3-45e5-af65-7914bd4511a0,ab76477a-0224-43ee-bd69-cf654cdc1a90,8302-2,Body Height,177.51,cm
+2011-12-25,79266ca2-b4e3-45e5-af65-7914bd4511a0,ab76477a-0224-43ee-bd69-cf654cdc1a90,29463-7,Body Weight,103.83,kg
+2011-12-25,79266ca2-b4e3-45e5-af65-7914bd4511a0,ab76477a-0224-43ee-bd69-cf654cdc1a90,39156-5,Body Mass Index,32.95,kg/m2
+2011-12-25,79266ca2-b4e3-45e5-af65-7914bd4511a0,ab76477a-0224-43ee-bd69-cf654cdc1a90,8480-6,Systolic Blood Pressure,180.0,mmHg
+2011-12-25,79266ca2-b4e3-45e5-af65-7914bd4511a0,ab76477a-0224-43ee-bd69-cf654cdc1a90,8462-4,Diastolic Blood Pressure,102.0,mmHg
+2011-12-25,79266ca2-b4e3-45e5-af65-7914bd4511a0,ab76477a-0224-43ee-bd69-cf654cdc1a90,2093-3,Total Cholesterol,172.0,mg/dL
+2011-12-25,79266ca2-b4e3-45e5-af65-7914bd4511a0,ab76477a-0224-43ee-bd69-cf654cdc1a90,2571-8,Triglycerides,147.0,mg/dL
+2011-12-25,79266ca2-b4e3-45e5-af65-7914bd4511a0,ab76477a-0224-43ee-bd69-cf654cdc1a90,18262-6,Low Density Lipoprotein Cholesterol,81.0,mg/dL
+2011-12-25,79266ca2-b4e3-45e5-af65-7914bd4511a0,ab76477a-0224-43ee-bd69-cf654cdc1a90,2085-9,High Density Lipoprotein Cholesterol,61.0,mg/dL
+2011-12-25,79266ca2-b4e3-45e5-af65-7914bd4511a0,ab76477a-0224-43ee-bd69-cf654cdc1a90,33914-3,Estimated Glomerular Filtration Rate,60.0,mL/min/{1.73_m2}
+2013-10-14,79266ca2-b4e3-45e5-af65-7914bd4511a0,b65c41d2-d6fd-4506-ab13-51b40cd3155e,8302-2,Body Height,177.51,cm
+2013-10-14,79266ca2-b4e3-45e5-af65-7914bd4511a0,b65c41d2-d6fd-4506-ab13-51b40cd3155e,29463-7,Body Weight,106.05,kg
+2013-10-14,79266ca2-b4e3-45e5-af65-7914bd4511a0,b65c41d2-d6fd-4506-ab13-51b40cd3155e,39156-5,Body Mass Index,33.66,kg/m2
+2013-10-14,79266ca2-b4e3-45e5-af65-7914bd4511a0,b65c41d2-d6fd-4506-ab13-51b40cd3155e,8480-6,Systolic Blood Pressure,157.0,mmHg
+2013-10-14,79266ca2-b4e3-45e5-af65-7914bd4511a0,b65c41d2-d6fd-4506-ab13-51b40cd3155e,8462-4,Diastolic Blood Pressure,116.0,mmHg
+2013-10-14,79266ca2-b4e3-45e5-af65-7914bd4511a0,b65c41d2-d6fd-4506-ab13-51b40cd3155e,33914-3,Estimated Glomerular Filtration Rate,60.0,mL/min/{1.73_m2}
+2015-11-05,79266ca2-b4e3-45e5-af65-7914bd4511a0,d977ed1c-fa1c-416b-a59b-36654cfa3f21,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,6.3,%
+2015-11-05,79266ca2-b4e3-45e5-af65-7914bd4511a0,d977ed1c-fa1c-416b-a59b-36654cfa3f21,8302-2,Body Height,177.51,cm
+2015-11-05,79266ca2-b4e3-45e5-af65-7914bd4511a0,d977ed1c-fa1c-416b-a59b-36654cfa3f21,29463-7,Body Weight,108.73,kg
+2015-11-05,79266ca2-b4e3-45e5-af65-7914bd4511a0,d977ed1c-fa1c-416b-a59b-36654cfa3f21,39156-5,Body Mass Index,34.51,kg/m2
+2015-11-05,79266ca2-b4e3-45e5-af65-7914bd4511a0,d977ed1c-fa1c-416b-a59b-36654cfa3f21,8480-6,Systolic Blood Pressure,187.0,mmHg
+2015-11-05,79266ca2-b4e3-45e5-af65-7914bd4511a0,d977ed1c-fa1c-416b-a59b-36654cfa3f21,8462-4,Diastolic Blood Pressure,90.0,mmHg
+2015-11-05,79266ca2-b4e3-45e5-af65-7914bd4511a0,d977ed1c-fa1c-416b-a59b-36654cfa3f21,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,6.3,%
+2015-11-05,79266ca2-b4e3-45e5-af65-7914bd4511a0,d977ed1c-fa1c-416b-a59b-36654cfa3f21,2339-0,Glucose,72.0,mg/dL
+2015-11-05,79266ca2-b4e3-45e5-af65-7914bd4511a0,d977ed1c-fa1c-416b-a59b-36654cfa3f21,6299-2,Urea Nitrogen,12.0,mg/dL
+2015-11-05,79266ca2-b4e3-45e5-af65-7914bd4511a0,d977ed1c-fa1c-416b-a59b-36654cfa3f21,38483-4,Creatinine,1.0,mg/dL
+2015-11-05,79266ca2-b4e3-45e5-af65-7914bd4511a0,d977ed1c-fa1c-416b-a59b-36654cfa3f21,49765-1,Calcium,10.12,mg/dL
+2015-11-05,79266ca2-b4e3-45e5-af65-7914bd4511a0,d977ed1c-fa1c-416b-a59b-36654cfa3f21,2947-0,Sodium,136.0,mmol/L
+2015-11-05,79266ca2-b4e3-45e5-af65-7914bd4511a0,d977ed1c-fa1c-416b-a59b-36654cfa3f21,6298-4,Potassium,4.44,mmol/L
+2015-11-05,79266ca2-b4e3-45e5-af65-7914bd4511a0,d977ed1c-fa1c-416b-a59b-36654cfa3f21,2069-3,Chloride,102.0,mmol/L
+2015-11-05,79266ca2-b4e3-45e5-af65-7914bd4511a0,d977ed1c-fa1c-416b-a59b-36654cfa3f21,20565-8,Carbon Dioxide,26.0,mmol/L
+2015-11-05,79266ca2-b4e3-45e5-af65-7914bd4511a0,d977ed1c-fa1c-416b-a59b-36654cfa3f21,2093-3,Total Cholesterol,174.0,mg/dL
+2015-11-05,79266ca2-b4e3-45e5-af65-7914bd4511a0,d977ed1c-fa1c-416b-a59b-36654cfa3f21,2571-8,Triglycerides,133.0,mg/dL
+2015-11-05,79266ca2-b4e3-45e5-af65-7914bd4511a0,d977ed1c-fa1c-416b-a59b-36654cfa3f21,18262-6,Low Density Lipoprotein Cholesterol,80.0,mg/dL
+2015-11-05,79266ca2-b4e3-45e5-af65-7914bd4511a0,d977ed1c-fa1c-416b-a59b-36654cfa3f21,2085-9,High Density Lipoprotein Cholesterol,67.0,mg/dL
+2015-11-05,79266ca2-b4e3-45e5-af65-7914bd4511a0,d977ed1c-fa1c-416b-a59b-36654cfa3f21,33914-3,Estimated Glomerular Filtration Rate,60.0,mL/min/{1.73_m2}
+2017-10-13,79266ca2-b4e3-45e5-af65-7914bd4511a0,1a6b653c-2725-4c27-afef-784d5e53ae58,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,5.9,%
+2017-10-13,79266ca2-b4e3-45e5-af65-7914bd4511a0,1a6b653c-2725-4c27-afef-784d5e53ae58,8302-2,Body Height,177.51,cm
+2017-10-13,79266ca2-b4e3-45e5-af65-7914bd4511a0,1a6b653c-2725-4c27-afef-784d5e53ae58,29463-7,Body Weight,111.9,kg
+2017-10-13,79266ca2-b4e3-45e5-af65-7914bd4511a0,1a6b653c-2725-4c27-afef-784d5e53ae58,39156-5,Body Mass Index,35.52,kg/m2
+2017-10-13,79266ca2-b4e3-45e5-af65-7914bd4511a0,1a6b653c-2725-4c27-afef-784d5e53ae58,8480-6,Systolic Blood Pressure,200.0,mmHg
+2017-10-13,79266ca2-b4e3-45e5-af65-7914bd4511a0,1a6b653c-2725-4c27-afef-784d5e53ae58,8462-4,Diastolic Blood Pressure,91.0,mmHg
+2017-10-13,79266ca2-b4e3-45e5-af65-7914bd4511a0,1a6b653c-2725-4c27-afef-784d5e53ae58,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,5.9,%
+2017-10-13,79266ca2-b4e3-45e5-af65-7914bd4511a0,1a6b653c-2725-4c27-afef-784d5e53ae58,2339-0,Glucose,73.0,mg/dL
+2017-10-13,79266ca2-b4e3-45e5-af65-7914bd4511a0,1a6b653c-2725-4c27-afef-784d5e53ae58,6299-2,Urea Nitrogen,7.0,mg/dL
+2017-10-13,79266ca2-b4e3-45e5-af65-7914bd4511a0,1a6b653c-2725-4c27-afef-784d5e53ae58,38483-4,Creatinine,1.0,mg/dL
+2017-10-13,79266ca2-b4e3-45e5-af65-7914bd4511a0,1a6b653c-2725-4c27-afef-784d5e53ae58,49765-1,Calcium,9.31,mg/dL
+2017-10-13,79266ca2-b4e3-45e5-af65-7914bd4511a0,1a6b653c-2725-4c27-afef-784d5e53ae58,2947-0,Sodium,144.0,mmol/L
+2017-10-13,79266ca2-b4e3-45e5-af65-7914bd4511a0,1a6b653c-2725-4c27-afef-784d5e53ae58,6298-4,Potassium,4.85,mmol/L
+2017-10-13,79266ca2-b4e3-45e5-af65-7914bd4511a0,1a6b653c-2725-4c27-afef-784d5e53ae58,2069-3,Chloride,108.0,mmol/L
+2017-10-13,79266ca2-b4e3-45e5-af65-7914bd4511a0,1a6b653c-2725-4c27-afef-784d5e53ae58,20565-8,Carbon Dioxide,28.0,mmol/L
+2017-10-13,79266ca2-b4e3-45e5-af65-7914bd4511a0,1a6b653c-2725-4c27-afef-784d5e53ae58,33914-3,Estimated Glomerular Filtration Rate,60.0,mL/min/{1.73_m2}
+2017-10-31,79266ca2-b4e3-45e5-af65-7914bd4511a0,,273724008,Quality adjusted life years,48.94392626282091,years
+2017-10-31,79266ca2-b4e3-45e5-af65-7914bd4511a0,,273421001,Disability rating scale,0.056073737179090935,years
+2008-05-04,31410948-38be-4990-be5e-a47ab44f33a1,2bde1679-1291-40e7-90ec-b03ce8177f59,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,6.2,%
+2008-05-04,31410948-38be-4990-be5e-a47ab44f33a1,2bde1679-1291-40e7-90ec-b03ce8177f59,8302-2,Body Height,175.46,cm
+2008-05-04,31410948-38be-4990-be5e-a47ab44f33a1,2bde1679-1291-40e7-90ec-b03ce8177f59,29463-7,Body Weight,94.44,kg
+2008-05-04,31410948-38be-4990-be5e-a47ab44f33a1,2bde1679-1291-40e7-90ec-b03ce8177f59,39156-5,Body Mass Index,30.67,kg/m2
+2008-05-04,31410948-38be-4990-be5e-a47ab44f33a1,2bde1679-1291-40e7-90ec-b03ce8177f59,8480-6,Systolic Blood Pressure,107.0,mmHg
+2008-05-04,31410948-38be-4990-be5e-a47ab44f33a1,2bde1679-1291-40e7-90ec-b03ce8177f59,8462-4,Diastolic Blood Pressure,83.0,mmHg
+2008-05-04,31410948-38be-4990-be5e-a47ab44f33a1,2bde1679-1291-40e7-90ec-b03ce8177f59,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,6.2,%
+2008-05-04,31410948-38be-4990-be5e-a47ab44f33a1,2bde1679-1291-40e7-90ec-b03ce8177f59,2339-0,Glucose,95.0,mg/dL
+2008-05-04,31410948-38be-4990-be5e-a47ab44f33a1,2bde1679-1291-40e7-90ec-b03ce8177f59,6299-2,Urea Nitrogen,9.0,mg/dL
+2008-05-04,31410948-38be-4990-be5e-a47ab44f33a1,2bde1679-1291-40e7-90ec-b03ce8177f59,38483-4,Creatinine,1.0,mg/dL
+2008-05-04,31410948-38be-4990-be5e-a47ab44f33a1,2bde1679-1291-40e7-90ec-b03ce8177f59,49765-1,Calcium,10.01,mg/dL
+2008-05-04,31410948-38be-4990-be5e-a47ab44f33a1,2bde1679-1291-40e7-90ec-b03ce8177f59,2947-0,Sodium,143.0,mmol/L
+2008-05-04,31410948-38be-4990-be5e-a47ab44f33a1,2bde1679-1291-40e7-90ec-b03ce8177f59,6298-4,Potassium,4.57,mmol/L
+2008-05-04,31410948-38be-4990-be5e-a47ab44f33a1,2bde1679-1291-40e7-90ec-b03ce8177f59,2069-3,Chloride,108.0,mmol/L
+2008-05-04,31410948-38be-4990-be5e-a47ab44f33a1,2bde1679-1291-40e7-90ec-b03ce8177f59,20565-8,Carbon Dioxide,23.0,mmol/L
+2009-03-16,31410948-38be-4990-be5e-a47ab44f33a1,b3618416-81e3-4497-a13a-fe4ef4dab8dd,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,6.3,%
+2009-03-16,31410948-38be-4990-be5e-a47ab44f33a1,b3618416-81e3-4497-a13a-fe4ef4dab8dd,8302-2,Body Height,175.46,cm
+2009-03-16,31410948-38be-4990-be5e-a47ab44f33a1,b3618416-81e3-4497-a13a-fe4ef4dab8dd,29463-7,Body Weight,92.83,kg
+2009-03-16,31410948-38be-4990-be5e-a47ab44f33a1,b3618416-81e3-4497-a13a-fe4ef4dab8dd,39156-5,Body Mass Index,30.15,kg/m2
+2009-03-16,31410948-38be-4990-be5e-a47ab44f33a1,b3618416-81e3-4497-a13a-fe4ef4dab8dd,8480-6,Systolic Blood Pressure,120.0,mmHg
+2009-03-16,31410948-38be-4990-be5e-a47ab44f33a1,b3618416-81e3-4497-a13a-fe4ef4dab8dd,8462-4,Diastolic Blood Pressure,84.0,mmHg
+2009-03-16,31410948-38be-4990-be5e-a47ab44f33a1,b3618416-81e3-4497-a13a-fe4ef4dab8dd,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,6.3,%
+2009-03-16,31410948-38be-4990-be5e-a47ab44f33a1,b3618416-81e3-4497-a13a-fe4ef4dab8dd,2339-0,Glucose,86.0,mg/dL
+2009-03-16,31410948-38be-4990-be5e-a47ab44f33a1,b3618416-81e3-4497-a13a-fe4ef4dab8dd,6299-2,Urea Nitrogen,13.0,mg/dL
+2009-03-16,31410948-38be-4990-be5e-a47ab44f33a1,b3618416-81e3-4497-a13a-fe4ef4dab8dd,38483-4,Creatinine,1.0,mg/dL
+2009-03-16,31410948-38be-4990-be5e-a47ab44f33a1,b3618416-81e3-4497-a13a-fe4ef4dab8dd,49765-1,Calcium,8.65,mg/dL
+2009-03-16,31410948-38be-4990-be5e-a47ab44f33a1,b3618416-81e3-4497-a13a-fe4ef4dab8dd,2947-0,Sodium,139.0,mmol/L
+2009-03-16,31410948-38be-4990-be5e-a47ab44f33a1,b3618416-81e3-4497-a13a-fe4ef4dab8dd,6298-4,Potassium,5.03,mmol/L
+2009-03-16,31410948-38be-4990-be5e-a47ab44f33a1,b3618416-81e3-4497-a13a-fe4ef4dab8dd,2069-3,Chloride,107.0,mmol/L
+2009-03-16,31410948-38be-4990-be5e-a47ab44f33a1,b3618416-81e3-4497-a13a-fe4ef4dab8dd,20565-8,Carbon Dioxide,26.0,mmol/L
+2010-02-27,31410948-38be-4990-be5e-a47ab44f33a1,11ca6079-2cca-47f4-a22f-939c07f5c7c5,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,5.8,%
+2010-02-27,31410948-38be-4990-be5e-a47ab44f33a1,11ca6079-2cca-47f4-a22f-939c07f5c7c5,8302-2,Body Height,175.46,cm
+2010-02-27,31410948-38be-4990-be5e-a47ab44f33a1,11ca6079-2cca-47f4-a22f-939c07f5c7c5,29463-7,Body Weight,91.2,kg
+2010-02-27,31410948-38be-4990-be5e-a47ab44f33a1,11ca6079-2cca-47f4-a22f-939c07f5c7c5,39156-5,Body Mass Index,29.62,kg/m2
+2010-02-27,31410948-38be-4990-be5e-a47ab44f33a1,11ca6079-2cca-47f4-a22f-939c07f5c7c5,8480-6,Systolic Blood Pressure,124.0,mmHg
+2010-02-27,31410948-38be-4990-be5e-a47ab44f33a1,11ca6079-2cca-47f4-a22f-939c07f5c7c5,8462-4,Diastolic Blood Pressure,78.0,mmHg
+2010-02-27,31410948-38be-4990-be5e-a47ab44f33a1,11ca6079-2cca-47f4-a22f-939c07f5c7c5,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,5.8,%
+2010-02-27,31410948-38be-4990-be5e-a47ab44f33a1,11ca6079-2cca-47f4-a22f-939c07f5c7c5,2339-0,Glucose,69.0,mg/dL
+2010-02-27,31410948-38be-4990-be5e-a47ab44f33a1,11ca6079-2cca-47f4-a22f-939c07f5c7c5,6299-2,Urea Nitrogen,16.0,mg/dL
+2010-02-27,31410948-38be-4990-be5e-a47ab44f33a1,11ca6079-2cca-47f4-a22f-939c07f5c7c5,38483-4,Creatinine,1.0,mg/dL
+2010-02-27,31410948-38be-4990-be5e-a47ab44f33a1,11ca6079-2cca-47f4-a22f-939c07f5c7c5,49765-1,Calcium,10.15,mg/dL
+2010-02-27,31410948-38be-4990-be5e-a47ab44f33a1,11ca6079-2cca-47f4-a22f-939c07f5c7c5,2947-0,Sodium,137.0,mmol/L
+2010-02-27,31410948-38be-4990-be5e-a47ab44f33a1,11ca6079-2cca-47f4-a22f-939c07f5c7c5,6298-4,Potassium,4.19,mmol/L
+2010-02-27,31410948-38be-4990-be5e-a47ab44f33a1,11ca6079-2cca-47f4-a22f-939c07f5c7c5,2069-3,Chloride,110.0,mmol/L
+2010-02-27,31410948-38be-4990-be5e-a47ab44f33a1,11ca6079-2cca-47f4-a22f-939c07f5c7c5,20565-8,Carbon Dioxide,25.0,mmol/L
+2011-04-07,31410948-38be-4990-be5e-a47ab44f33a1,2d2c4fc1-574c-4fbe-9fbc-bc50779d96f7,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,5.9,%
+2011-04-07,31410948-38be-4990-be5e-a47ab44f33a1,2d2c4fc1-574c-4fbe-9fbc-bc50779d96f7,8302-2,Body Height,175.46,cm
+2011-04-07,31410948-38be-4990-be5e-a47ab44f33a1,2d2c4fc1-574c-4fbe-9fbc-bc50779d96f7,29463-7,Body Weight,90.16,kg
+2011-04-07,31410948-38be-4990-be5e-a47ab44f33a1,2d2c4fc1-574c-4fbe-9fbc-bc50779d96f7,39156-5,Body Mass Index,29.28,kg/m2
+2011-04-07,31410948-38be-4990-be5e-a47ab44f33a1,2d2c4fc1-574c-4fbe-9fbc-bc50779d96f7,8480-6,Systolic Blood Pressure,131.0,mmHg
+2011-04-07,31410948-38be-4990-be5e-a47ab44f33a1,2d2c4fc1-574c-4fbe-9fbc-bc50779d96f7,8462-4,Diastolic Blood Pressure,82.0,mmHg
+2011-04-07,31410948-38be-4990-be5e-a47ab44f33a1,2d2c4fc1-574c-4fbe-9fbc-bc50779d96f7,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,5.9,%
+2011-04-07,31410948-38be-4990-be5e-a47ab44f33a1,2d2c4fc1-574c-4fbe-9fbc-bc50779d96f7,2339-0,Glucose,92.0,mg/dL
+2011-04-07,31410948-38be-4990-be5e-a47ab44f33a1,2d2c4fc1-574c-4fbe-9fbc-bc50779d96f7,6299-2,Urea Nitrogen,9.0,mg/dL
+2011-04-07,31410948-38be-4990-be5e-a47ab44f33a1,2d2c4fc1-574c-4fbe-9fbc-bc50779d96f7,38483-4,Creatinine,1.0,mg/dL
+2011-04-07,31410948-38be-4990-be5e-a47ab44f33a1,2d2c4fc1-574c-4fbe-9fbc-bc50779d96f7,49765-1,Calcium,9.18,mg/dL
+2011-04-07,31410948-38be-4990-be5e-a47ab44f33a1,2d2c4fc1-574c-4fbe-9fbc-bc50779d96f7,2947-0,Sodium,140.0,mmol/L
+2011-04-07,31410948-38be-4990-be5e-a47ab44f33a1,2d2c4fc1-574c-4fbe-9fbc-bc50779d96f7,6298-4,Potassium,3.81,mmol/L
+2011-04-07,31410948-38be-4990-be5e-a47ab44f33a1,2d2c4fc1-574c-4fbe-9fbc-bc50779d96f7,2069-3,Chloride,102.0,mmol/L
+2011-04-07,31410948-38be-4990-be5e-a47ab44f33a1,2d2c4fc1-574c-4fbe-9fbc-bc50779d96f7,20565-8,Carbon Dioxide,26.0,mmol/L
+2011-04-07,31410948-38be-4990-be5e-a47ab44f33a1,2d2c4fc1-574c-4fbe-9fbc-bc50779d96f7,2093-3,Total Cholesterol,164.0,mg/dL
+2011-04-07,31410948-38be-4990-be5e-a47ab44f33a1,2d2c4fc1-574c-4fbe-9fbc-bc50779d96f7,2571-8,Triglycerides,121.0,mg/dL
+2011-04-07,31410948-38be-4990-be5e-a47ab44f33a1,2d2c4fc1-574c-4fbe-9fbc-bc50779d96f7,18262-6,Low Density Lipoprotein Cholesterol,78.0,mg/dL
+2011-04-07,31410948-38be-4990-be5e-a47ab44f33a1,2d2c4fc1-574c-4fbe-9fbc-bc50779d96f7,2085-9,High Density Lipoprotein Cholesterol,61.0,mg/dL
+2012-03-25,31410948-38be-4990-be5e-a47ab44f33a1,e18875df-6b04-4bf9-abe1-4fe7d092cd94,9855000,Natural death with unknown cause,,
+2017-10-31,31410948-38be-4990-be5e-a47ab44f33a1,,273724008,Quality adjusted life years,87.21185830105532,years
+2017-10-31,31410948-38be-4990-be5e-a47ab44f33a1,,273421001,Disability rating scale,12.43014169894468,years
+2008-02-18,b1943aad-500b-4b22-8da8-b4d9c667c763,4cf3221c-933a-4c8a-8b7a-f4154bca6905,8302-2,Body Height,176.7,cm
+2008-02-18,b1943aad-500b-4b22-8da8-b4d9c667c763,4cf3221c-933a-4c8a-8b7a-f4154bca6905,29463-7,Body Weight,113.46,kg
+2008-02-18,b1943aad-500b-4b22-8da8-b4d9c667c763,4cf3221c-933a-4c8a-8b7a-f4154bca6905,39156-5,Body Mass Index,36.34,kg/m2
+2008-02-18,b1943aad-500b-4b22-8da8-b4d9c667c763,4cf3221c-933a-4c8a-8b7a-f4154bca6905,8480-6,Systolic Blood Pressure,109.0,mmHg
+2008-02-18,b1943aad-500b-4b22-8da8-b4d9c667c763,4cf3221c-933a-4c8a-8b7a-f4154bca6905,8462-4,Diastolic Blood Pressure,73.0,mmHg
+2009-07-03,b1943aad-500b-4b22-8da8-b4d9c667c763,42e70752-b574-47b7-9b7e-c1f32f5f8783,8302-2,Body Height,176.7,cm
+2009-07-03,b1943aad-500b-4b22-8da8-b4d9c667c763,42e70752-b574-47b7-9b7e-c1f32f5f8783,29463-7,Body Weight,111.57,kg
+2009-07-03,b1943aad-500b-4b22-8da8-b4d9c667c763,42e70752-b574-47b7-9b7e-c1f32f5f8783,39156-5,Body Mass Index,35.73,kg/m2
+2009-07-03,b1943aad-500b-4b22-8da8-b4d9c667c763,42e70752-b574-47b7-9b7e-c1f32f5f8783,8480-6,Systolic Blood Pressure,133.0,mmHg
+2009-07-03,b1943aad-500b-4b22-8da8-b4d9c667c763,42e70752-b574-47b7-9b7e-c1f32f5f8783,8462-4,Diastolic Blood Pressure,71.0,mmHg
+2010-07-09,b1943aad-500b-4b22-8da8-b4d9c667c763,a1ebe6bf-7c52-417e-a731-4b0ed4563895,8302-2,Body Height,176.7,cm
+2010-07-09,b1943aad-500b-4b22-8da8-b4d9c667c763,a1ebe6bf-7c52-417e-a731-4b0ed4563895,29463-7,Body Weight,110.07,kg
+2010-07-09,b1943aad-500b-4b22-8da8-b4d9c667c763,a1ebe6bf-7c52-417e-a731-4b0ed4563895,39156-5,Body Mass Index,35.25,kg/m2
+2010-07-09,b1943aad-500b-4b22-8da8-b4d9c667c763,a1ebe6bf-7c52-417e-a731-4b0ed4563895,8480-6,Systolic Blood Pressure,138.0,mmHg
+2010-07-09,b1943aad-500b-4b22-8da8-b4d9c667c763,a1ebe6bf-7c52-417e-a731-4b0ed4563895,8462-4,Diastolic Blood Pressure,81.0,mmHg
+2010-07-09,b1943aad-500b-4b22-8da8-b4d9c667c763,a1ebe6bf-7c52-417e-a731-4b0ed4563895,2093-3,Total Cholesterol,191.0,mg/dL
+2010-07-09,b1943aad-500b-4b22-8da8-b4d9c667c763,a1ebe6bf-7c52-417e-a731-4b0ed4563895,2571-8,Triglycerides,131.0,mg/dL
+2010-07-09,b1943aad-500b-4b22-8da8-b4d9c667c763,a1ebe6bf-7c52-417e-a731-4b0ed4563895,18262-6,Low Density Lipoprotein Cholesterol,88.0,mg/dL
+2010-07-09,b1943aad-500b-4b22-8da8-b4d9c667c763,a1ebe6bf-7c52-417e-a731-4b0ed4563895,2085-9,High Density Lipoprotein Cholesterol,76.0,mg/dL
+2011-09-01,b1943aad-500b-4b22-8da8-b4d9c667c763,ab14c31f-d1cc-407f-aecc-63194f4c63d9,8302-2,Body Height,176.7,cm
+2011-09-01,b1943aad-500b-4b22-8da8-b4d9c667c763,ab14c31f-d1cc-407f-aecc-63194f4c63d9,29463-7,Body Weight,108.6,kg
+2011-09-01,b1943aad-500b-4b22-8da8-b4d9c667c763,ab14c31f-d1cc-407f-aecc-63194f4c63d9,39156-5,Body Mass Index,34.78,kg/m2
+2011-09-01,b1943aad-500b-4b22-8da8-b4d9c667c763,ab14c31f-d1cc-407f-aecc-63194f4c63d9,8480-6,Systolic Blood Pressure,109.0,mmHg
+2011-09-01,b1943aad-500b-4b22-8da8-b4d9c667c763,ab14c31f-d1cc-407f-aecc-63194f4c63d9,8462-4,Diastolic Blood Pressure,70.0,mmHg
+2012-08-03,b1943aad-500b-4b22-8da8-b4d9c667c763,d2943964-ab11-477c-af8a-6aef21591731,8302-2,Body Height,176.7,cm
+2012-08-03,b1943aad-500b-4b22-8da8-b4d9c667c763,d2943964-ab11-477c-af8a-6aef21591731,29463-7,Body Weight,107.04,kg
+2012-08-03,b1943aad-500b-4b22-8da8-b4d9c667c763,d2943964-ab11-477c-af8a-6aef21591731,39156-5,Body Mass Index,34.28,kg/m2
+2012-08-03,b1943aad-500b-4b22-8da8-b4d9c667c763,d2943964-ab11-477c-af8a-6aef21591731,8480-6,Systolic Blood Pressure,113.0,mmHg
+2012-08-03,b1943aad-500b-4b22-8da8-b4d9c667c763,d2943964-ab11-477c-af8a-6aef21591731,8462-4,Diastolic Blood Pressure,87.0,mmHg
+2013-08-30,b1943aad-500b-4b22-8da8-b4d9c667c763,bbe4d101-f738-4d97-b856-67743dccc6ce,8302-2,Body Height,176.7,cm
+2013-08-30,b1943aad-500b-4b22-8da8-b4d9c667c763,bbe4d101-f738-4d97-b856-67743dccc6ce,29463-7,Body Weight,105.14,kg
+2013-08-30,b1943aad-500b-4b22-8da8-b4d9c667c763,bbe4d101-f738-4d97-b856-67743dccc6ce,39156-5,Body Mass Index,33.67,kg/m2
+2013-08-30,b1943aad-500b-4b22-8da8-b4d9c667c763,bbe4d101-f738-4d97-b856-67743dccc6ce,8480-6,Systolic Blood Pressure,138.0,mmHg
+2013-08-30,b1943aad-500b-4b22-8da8-b4d9c667c763,bbe4d101-f738-4d97-b856-67743dccc6ce,8462-4,Diastolic Blood Pressure,89.0,mmHg
+2013-08-30,b1943aad-500b-4b22-8da8-b4d9c667c763,bbe4d101-f738-4d97-b856-67743dccc6ce,2093-3,Total Cholesterol,186.0,mg/dL
+2013-08-30,b1943aad-500b-4b22-8da8-b4d9c667c763,bbe4d101-f738-4d97-b856-67743dccc6ce,2571-8,Triglycerides,119.0,mg/dL
+2013-08-30,b1943aad-500b-4b22-8da8-b4d9c667c763,bbe4d101-f738-4d97-b856-67743dccc6ce,18262-6,Low Density Lipoprotein Cholesterol,89.0,mg/dL
+2013-08-30,b1943aad-500b-4b22-8da8-b4d9c667c763,bbe4d101-f738-4d97-b856-67743dccc6ce,2085-9,High Density Lipoprotein Cholesterol,73.0,mg/dL
+2014-07-30,b1943aad-500b-4b22-8da8-b4d9c667c763,d4fa70f5-710e-4f6a-8bb0-249d211d6132,8302-2,Body Height,176.7,cm
+2014-07-30,b1943aad-500b-4b22-8da8-b4d9c667c763,d4fa70f5-710e-4f6a-8bb0-249d211d6132,29463-7,Body Weight,104.01,kg
+2014-07-30,b1943aad-500b-4b22-8da8-b4d9c667c763,d4fa70f5-710e-4f6a-8bb0-249d211d6132,39156-5,Body Mass Index,33.31,kg/m2
+2014-07-30,b1943aad-500b-4b22-8da8-b4d9c667c763,d4fa70f5-710e-4f6a-8bb0-249d211d6132,8480-6,Systolic Blood Pressure,135.0,mmHg
+2014-07-30,b1943aad-500b-4b22-8da8-b4d9c667c763,d4fa70f5-710e-4f6a-8bb0-249d211d6132,8462-4,Diastolic Blood Pressure,81.0,mmHg
+2015-08-15,b1943aad-500b-4b22-8da8-b4d9c667c763,cf6e0a00-9555-4020-91e9-e7cebe2e282c,8302-2,Body Height,176.7,cm
+2015-08-15,b1943aad-500b-4b22-8da8-b4d9c667c763,cf6e0a00-9555-4020-91e9-e7cebe2e282c,29463-7,Body Weight,102.21,kg
+2015-08-15,b1943aad-500b-4b22-8da8-b4d9c667c763,cf6e0a00-9555-4020-91e9-e7cebe2e282c,39156-5,Body Mass Index,32.74,kg/m2
+2015-08-15,b1943aad-500b-4b22-8da8-b4d9c667c763,cf6e0a00-9555-4020-91e9-e7cebe2e282c,8480-6,Systolic Blood Pressure,102.0,mmHg
+2015-08-15,b1943aad-500b-4b22-8da8-b4d9c667c763,cf6e0a00-9555-4020-91e9-e7cebe2e282c,8462-4,Diastolic Blood Pressure,71.0,mmHg
+2016-03-03,b1943aad-500b-4b22-8da8-b4d9c667c763,f18309dd-6cfa-4b4d-93ff-00a5f64a5a51,8331-1,Oral temperature,37.0,Cel
+2016-05-11,b1943aad-500b-4b22-8da8-b4d9c667c763,96289770-54b8-42f2-ae54-8827a76d3da9,38265-5,DXA [T-score] Bone density,0.15,{T-score}
+2016-08-13,b1943aad-500b-4b22-8da8-b4d9c667c763,3625665c-96a8-4bf6-9e85-ca5eb02290cd,8302-2,Body Height,176.7,cm
+2016-08-13,b1943aad-500b-4b22-8da8-b4d9c667c763,3625665c-96a8-4bf6-9e85-ca5eb02290cd,29463-7,Body Weight,100.59,kg
+2016-08-13,b1943aad-500b-4b22-8da8-b4d9c667c763,3625665c-96a8-4bf6-9e85-ca5eb02290cd,39156-5,Body Mass Index,32.22,kg/m2
+2016-08-13,b1943aad-500b-4b22-8da8-b4d9c667c763,3625665c-96a8-4bf6-9e85-ca5eb02290cd,8480-6,Systolic Blood Pressure,129.0,mmHg
+2016-08-13,b1943aad-500b-4b22-8da8-b4d9c667c763,3625665c-96a8-4bf6-9e85-ca5eb02290cd,8462-4,Diastolic Blood Pressure,74.0,mmHg
+2017-09-22,b1943aad-500b-4b22-8da8-b4d9c667c763,23c50bcf-6ef7-4bc8-b85c-7413f0f4b2fc,8302-2,Body Height,176.7,cm
+2017-09-22,b1943aad-500b-4b22-8da8-b4d9c667c763,23c50bcf-6ef7-4bc8-b85c-7413f0f4b2fc,29463-7,Body Weight,99.14,kg
+2017-09-22,b1943aad-500b-4b22-8da8-b4d9c667c763,23c50bcf-6ef7-4bc8-b85c-7413f0f4b2fc,39156-5,Body Mass Index,31.75,kg/m2
+2017-09-22,b1943aad-500b-4b22-8da8-b4d9c667c763,23c50bcf-6ef7-4bc8-b85c-7413f0f4b2fc,8480-6,Systolic Blood Pressure,110.0,mmHg
+2017-09-22,b1943aad-500b-4b22-8da8-b4d9c667c763,23c50bcf-6ef7-4bc8-b85c-7413f0f4b2fc,8462-4,Diastolic Blood Pressure,77.0,mmHg
+2017-09-22,b1943aad-500b-4b22-8da8-b4d9c667c763,23c50bcf-6ef7-4bc8-b85c-7413f0f4b2fc,2093-3,Total Cholesterol,186.0,mg/dL
+2017-09-22,b1943aad-500b-4b22-8da8-b4d9c667c763,23c50bcf-6ef7-4bc8-b85c-7413f0f4b2fc,2571-8,Triglycerides,125.0,mg/dL
+2017-09-22,b1943aad-500b-4b22-8da8-b4d9c667c763,23c50bcf-6ef7-4bc8-b85c-7413f0f4b2fc,18262-6,Low Density Lipoprotein Cholesterol,98.0,mg/dL
+2017-09-22,b1943aad-500b-4b22-8da8-b4d9c667c763,23c50bcf-6ef7-4bc8-b85c-7413f0f4b2fc,2085-9,High Density Lipoprotein Cholesterol,63.0,mg/dL
+2017-10-31,b1943aad-500b-4b22-8da8-b4d9c667c763,,273724008,Quality adjusted life years,86.13940636565437,years
+2017-10-31,b1943aad-500b-4b22-8da8-b4d9c667c763,,273421001,Disability rating scale,0.8605936343456282,years
+1998-04-13,443a0255-5584-45d9-93ca-9174f1d45f03,d09da4d8-a1b3-4f15-8d76-30aa213ce933,87433001,Pulmonary emphysema (disorder),,
+2017-10-31,443a0255-5584-45d9-93ca-9174f1d45f03,,273724008,Quality adjusted life years,62.524048545872816,years
+2017-10-31,443a0255-5584-45d9-93ca-9174f1d45f03,,273421001,Disability rating scale,26.833391454127185,years
+2008-05-27,00630ce3-e8eb-4ed4-889b-2c0ac257cbf4,dc19f41a-f783-4c91-9b1e-32394d556eaa,8302-2,Body Height,110.88,cm
+2008-05-27,00630ce3-e8eb-4ed4-889b-2c0ac257cbf4,dc19f41a-f783-4c91-9b1e-32394d556eaa,29463-7,Body Weight,17.85,kg
+2008-05-27,00630ce3-e8eb-4ed4-889b-2c0ac257cbf4,dc19f41a-f783-4c91-9b1e-32394d556eaa,39156-5,Body Mass Index,14.52,kg/m2
+2008-05-27,00630ce3-e8eb-4ed4-889b-2c0ac257cbf4,dc19f41a-f783-4c91-9b1e-32394d556eaa,8480-6,Systolic Blood Pressure,128.0,mmHg
+2008-05-27,00630ce3-e8eb-4ed4-889b-2c0ac257cbf4,dc19f41a-f783-4c91-9b1e-32394d556eaa,8462-4,Diastolic Blood Pressure,71.0,mmHg
+2009-05-25,00630ce3-e8eb-4ed4-889b-2c0ac257cbf4,b35673c3-4ed9-461c-8a49-3f4552236190,8302-2,Body Height,117.4,cm
+2009-05-25,00630ce3-e8eb-4ed4-889b-2c0ac257cbf4,b35673c3-4ed9-461c-8a49-3f4552236190,29463-7,Body Weight,19.96,kg
+2009-05-25,00630ce3-e8eb-4ed4-889b-2c0ac257cbf4,b35673c3-4ed9-461c-8a49-3f4552236190,39156-5,Body Mass Index,14.48,kg/m2
+2009-05-25,00630ce3-e8eb-4ed4-889b-2c0ac257cbf4,b35673c3-4ed9-461c-8a49-3f4552236190,8480-6,Systolic Blood Pressure,118.0,mmHg
+2009-05-25,00630ce3-e8eb-4ed4-889b-2c0ac257cbf4,b35673c3-4ed9-461c-8a49-3f4552236190,8462-4,Diastolic Blood Pressure,72.0,mmHg
